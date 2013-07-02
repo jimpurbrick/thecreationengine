@@ -14,8 +14,10 @@ SITEURL = 'http://jimpurbrick.github.com'
 RELATIVE_URLS = False
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = "feeds/atom/blog/index.html"
-FEED_ALL_RSS = "feeds/rss/blog/index.html"
+FEED_ATOM = "feeds/atom/blog/index.html"
+FEED_RSS = "feeds/rss/blog/index.html"
+FEED_ALL_ATOM = None
+FEED_ALL_RSS = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
