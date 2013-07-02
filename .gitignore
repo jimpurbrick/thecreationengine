@@ -33,3 +33,16 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# virtualenv
+venv
+
+# pelican server PIDs
+srv.pid
+pelican.pid
+
+# output files (pushed to https://github.com/jimpurbrick/jimpurbrick.github.com.git)
+output
+
+# pelican themes (forked at https://github.com/jimpurbrick/pelican-themes.git)
+themes
