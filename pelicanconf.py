@@ -23,22 +23,29 @@ GITHUB_URL = 'http://github.com/jimpurbrick'
 TWITTER_USERNAME = 'JimPurbrick'
 
 LINKS = (('Brian Green', 'http://psychochild.org/'),
+         ('Damion Schubert', 'http://www.zenofdesign.com/'),
+         ('Raph Koster', 'http://www.raphkoster.com/'),
          ('Gwyneth Llewelyn', 'http://gwynethllewelyn.net/'),
          ('James Au', 'http://nwn.blogs.com/'),
          ('Adam Martin', 'http://t-machine.org/'),
          ('Aleks Krotoski', 'http://alekskrotoski.com/'),
+         ('Alice Taylor', 'http://www.wonderlandblog.com/'),
          ('Ian Hughes', 'http://epredator.com/'),
          ('Andy Piper', 'http://andypiper.co.uk/'),
          ('Dave Hillier', 'http://davehillier.wordpress.com/'),
-         ('Cory Ondrejka', 'http://ondrejka.net/'),)
+         ('Cory Ondrejka', 'http://ondrejka.net/'),
+         ("Bryan O'Sullivan", 'http://www.serpentine.com/'),
+         ('Simon Stewart', 'http://blog.rocketpoweredjetpants.com/'),)
 
 SOCIAL = (('facebook', 'http://facebook.com/jimpurbrick'),
           ('twitter', 'http://twitter.com/jimpurbrick'),
+          ('linkedin', 'http://uk.linkedin.com/in/jimpurbrick'),
+          ('delicious', 'http://delicious.com/JimPurbrick'),
           ('github', 'http://github.com/jimpurbrick'),
-          ('lastfm', 'http://lastfm.com/user/jimpurbrick'),
+          ('bitbucket', 'http://bitbucket.org/jimpurbrick'),
+          ('stackoverflow', 'http://stackoverflow.com/users/932594/jim-purbrick'),
+          ('lastfm', 'http://last.fm/user/jimpurbrick'),
           ('flickr', 'http://flickr.com/jimpurbrick'),)
 
-# Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = False
-
 THEME = 'themes/tuxlite_tbs'
+DISPLAY_CATEGORIES_ON_MENU = False
