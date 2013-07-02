@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://jimpurbrick.github.com'
+SITEURL = 'http://jimpurbrick.com'
 RELATIVE_URLS = False
 
 # Feed generation is usually not desired when developing

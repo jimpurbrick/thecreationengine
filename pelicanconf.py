@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Jim Purbrick'
 SITENAME = u'The Creation Engine No. 2'
-SITEURL = 'http://jimpurbrick.github.com' # 'http://jimpurbrick.com'
+SITEURL = 'http://jimpurbrick.com'
 
 ARTICLE_URL = "{date:%Y}/{date:%m}/{date:%d}/{slug}/"
 ARTICLE_SAVE_AS = "{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html"
