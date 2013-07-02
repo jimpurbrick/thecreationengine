@@ -10,15 +10,17 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://jimpurbrick.com'
+SITEURL = 'http://jimpurbrick.github.com'
 RELATIVE_URLS = False
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = "feeds/atom/blog/index.html"
+FEED_ALL_RSS = "feeds/rss/blog/index.html"
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
 
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+DISQUS_SITENAME = 'thecreationengine'
+GOOGLE_ANALYTICS = 'UA-4868739-1'
