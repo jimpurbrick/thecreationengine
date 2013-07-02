@@ -1,7 +1,7 @@
-thecreationengine
-=================
-
 The Creation Engine Blog
+========================
+
+A static site pushed to https://github.com/jimpurbrick/jimpurbrick.github.com
 
 Setup
 -----
