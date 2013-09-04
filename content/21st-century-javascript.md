@@ -3,7 +3,7 @@ Date: 2011-03-12 14:05
 Tags: design, ecmascript, engineering, javascript, mocks, patterns, software, testing
 Slug: 21st-century-javascript
 
-<embed src="http://blip.tv/play/AYKq1y8A" type="application/x-shockwave-flash" width="640" height="510" allowscriptaccess="always" allowfullscreen="true"></embed>
+<div class="flex-video"><embed src="http://blip.tv/play/AYKq1y8A" type="application/x-shockwave-flash" width="640" height="510" allowscriptaccess="always" allowfullscreen="true"></embed></div>
 
 The [slides][] and [video][] of my talk at [AsyncJS][] on Thursday are
 now online. The video is pretty murky, but the sound has come out fine

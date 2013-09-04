@@ -7,7 +7,7 @@ A video of my <span class="caps">FOSDEM</span> talk about Mono in Second
 Life and our plans for the future of scripting is now online (the slides
 are also available [here][] ):
 
-<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/QGneU76KuSY&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/QGneU76KuSY&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
+<div class="flex-video"><iframe width="640" height="360" src="https://www.youtube.com/embed/QGneU76KuSY?feature=player_detailpage" frameborder="0" allowfullscreen></iframe></div>
 
 Watching back, I was surprised to hear myself say “Hooray!”, “Shit” and
 “Crap” quite so often…

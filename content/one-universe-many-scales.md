@@ -3,7 +3,9 @@ Date: 2013-01-10 23:19
 Tags: api, ccp, eve, mmo, mobile, online games, rest, web
 Slug: one-universe-many-scales
 
-<p><iframe width="560" height="315" src="http://www.youtube.com/embed/45mlVuLs_Nw" frameborder="0" allowfullscreen></iframe></p>
+<p>
+<div class="flex-video widescreen"><iframe width="560" height="315" src="http://www.youtube.com/embed/45mlVuLs_Nw" frameborder="0" allowfullscreen></iframe></div>
+</p>
 
 One epic meta-game design I first remember talking about a decade ago
 while working on [Warhammer Online][] is the multi-scale online game: a

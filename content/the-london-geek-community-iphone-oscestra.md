@@ -3,7 +3,7 @@ Date: 2009-05-12 00:34
 Tags: apple, drwho, geek, hackday, iphone, music, nintendo, wii, yahoo
 Slug: london-geek-community-iphone-oscestra
 
-<embed src="http://blip.tv/play/AYGAx2aB6RA" type="application/x-shockwave-flash" width="640" height="510" allowscriptaccess="always" allowfullscreen="true"></embed> 
+<div class="flex-video"><embed src="http://blip.tv/play/AYGAx2aB6RA" type="application/x-shockwave-flash" width="640" height="510" allowscriptaccess="always" allowfullscreen="true"></embed></div>
 
 </p>
 

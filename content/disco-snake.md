@@ -3,7 +3,7 @@ Date: 2010-09-15 17:25
 Tags: audio, html5, music, music hack day
 Slug: disco-snake
 
-<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/slwo4rBTQ00?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/slwo4rBTQ00?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object>
+<div class="flex-video"><object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/slwo4rBTQ00?version=3"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/slwo4rBTQ00?version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></object></div>
 
 Rock Band does a great job of inspiring people to play music, can you
 develop a game that inspires composition? [Lumines][] and [Rez][] create

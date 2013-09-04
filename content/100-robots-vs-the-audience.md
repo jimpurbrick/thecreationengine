@@ -51,13 +51,13 @@ the songs.
 With the tests done it was time to perform with 100 robots and 100s of
 people at the Brighton Dome and Museum.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/cdl-J6DA9Ac?hd=1" frameborder="0" allowfullscreen></iframe>
+<div class="flex-video widescreen"><iframe width="560" height="315" src="http://www.youtube.com/embed/cdl-J6DA9Ac?hd=1" frameborder="0" allowfullscreen></iframe></div>
 
 With the tests done it was time to perform with 100 robots and 100s of people at the Brighton Dome and Museum.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/GhusIQtw9IA" frameborder="0" allowfullscreen></iframe>
+<div class="flex-video widescreen"><iframe width="560" height="315" src="http://www.youtube.com/embed/GhusIQtw9IA" frameborder="0" allowfullscreen></iframe></div>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=PLF7C555F2D572B3E4&amp;hl=en_GB&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+<div class="flex-video widescreen"><iframe width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=PLF7C555F2D572B3E4&amp;hl=en_GB&amp;hd=1" frameborder="0" allowfullscreen></iframe></div>
 
 Many thanks to Steve Liddell for recording the Brighton Museum set,
 [@aral][] for letting us experiment on his [update conference][] and to

@@ -3,7 +3,7 @@ Date: 2010-11-04 09:54
 Tags: agile, automation, ci, django, mocks, python, tdd, testing
 Slug: why-and-how-automated-testing-python-and-django
 
-<embed src="http://blip.tv/play/AYKI80oC" type="application/x-shockwave-flash" width="480" height="302" allowscriptaccess="always" allowfullscreen="true"></embed>
+<div class="flex-video"><embed src="http://blip.tv/play/AYKI80oC" type="application/x-shockwave-flash" width="480" height="302" allowscriptaccess="always" allowfullscreen="true"></embed></div>
 
 Jamie has just uploaded the [movie][] of my talk “The Why and How of
 Automated Testing with Python and Django” which I gave at [BrightonPy][]

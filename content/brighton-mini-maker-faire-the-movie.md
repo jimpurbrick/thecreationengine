@@ -8,7 +8,7 @@ Sleigh showing the making of [You’re The Boss 2][]. Applications for
 this year’s Maker Faire are [now open][] and I can’t wait to see what
 everyone comes up with this year!
 
-<iframe src="http://player.vimeo.com/video/38685911" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div class="flex-video vimeo"><iframe src="http://player.vimeo.com/video/38685911" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
   [You’re The Boss 2]: http://jimpurbrick.com/2011/09/12/youre-boss-2/
   [now open]: http://www.makerfairebrighton.com/2012/05/10/brighton-mini-maker-faire-2012-call-for-makers/

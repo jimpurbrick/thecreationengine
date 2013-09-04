@@ -3,7 +3,7 @@ Date: 2010-09-27 17:23
 Tags: conference, fun, games, music, play, web
 Slug: meaningful-choices
 
-<object width="400" height="300"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Ftags%2Fthisisplayful%2Fshow%2F&page_show_back_url=%2Fphotos%2Ftags%2Fthisisplayful%2F&tags=thisisplayful&jump_to=&start_index="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Ftags%2Fthisisplayful%2Fshow%2F&page_show_back_url=%2Fphotos%2Ftags%2Fthisisplayful%2F&tags=thisisplayful&jump_to=&start_index=" width="400" height="300"></embed></object>
+<div class="flex-video"><object width="400" height="300"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Ftags%2Fthisisplayful%2Fshow%2F&page_show_back_url=%2Fphotos%2Ftags%2Fthisisplayful%2F&tags=thisisplayful&jump_to=&start_index="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2Ftags%2Fthisisplayful%2Fshow%2F&page_show_back_url=%2Fphotos%2Ftags%2Fthisisplayful%2F&tags=thisisplayful&jump_to=&start_index=" width="400" height="300"></embed></object></div>
 
 On Friday I jumped on the train to London to attend [Playful 2010][], a
 one day conference put on by [mudlark][] of [World of Love][] fame.

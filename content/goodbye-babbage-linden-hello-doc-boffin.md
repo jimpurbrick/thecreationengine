@@ -91,7 +91,7 @@ hope to see you all at the launch party at <span class="caps">2PM</span>
 Pacific (Second Life time) at the [Combat Cards Arenas in Europa][].
 I’ll leave you with Osprey’s latest amazing promo for the event.
 
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/4IPQOc_H3HY?fs=1&amp;hl=en_GB"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4IPQOc_H3HY?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+<div class="flex-video"><object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/4IPQOc_H3HY?fs=1&amp;hl=en_GB"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/4IPQOc_H3HY?fs=1&amp;hl=en_GB" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object></div>
 
   [Cory]: http://ondrejka.net/
   [Second Life]: http://secondlife.com

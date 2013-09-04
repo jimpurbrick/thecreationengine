@@ -6,7 +6,8 @@ Slug: data-not-art
 This week I experienced two remarkable combinations of music and the
 moving image.
 
-<iframe src="http://player.vimeo.com/video/11770011?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="400" height="150" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+<div class="flex-video vimeo"><iframe src="http://player.vimeo.com/video/11770011?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="400" height="150" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe></div>
+
 [Natures 3B][] from [Quayola][] on [Vimeo][].
 
 This evening I watched [Nature][] — Mira Calix and Quayola’s audio
