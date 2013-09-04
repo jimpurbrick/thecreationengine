@@ -1,0 +1,7 @@
+Title: Brighton Digital Festival
+Date: 2013-09-04 13:49
+Tags: brighton, technology, culture, facebook
+
+<div class="flex-video widescreen"><iframe src="http://www.youtube.com/embed/Xo7nXk0jgAA" frameborder="0" allowfullscreen=""></iframe></div>
+
+The [Brighton Digital Festival](http://www.brightondigitalfestival.co.uk/) starts this week and I'm very happy to be helping out with [Facebook London](http://www.facebook.com/facebooklondon)'s contributions: [Parse By The Sea](http://www.brightondigitalfestival.co.uk/events/parse-by-the-sea/), a mobile app Hackathon featuring [Parse](https://www.parse.com/) on the 26th of September, and helping to [Connect The Brighton Digital Festival](http://www.brightondigitalfestival.co.uk/connecting-the-brighton-digital-festival/) by sponsoring [Metranet](http://www.metranet.co.uk/) to provide high speed internet connectivity and improved WiFi infrastructure in the [Brighton Dome](http://brightondome.org/). If you'd like to come to the hackathon, please send an email to [brightonhack@fb.com](mailto:brightonhack@fb.com) and tell us about your mobile apps. I'm looking forward to seeing lots of great hacks at Parse By The Sea and to finally get online to [blog](http://jimpurbrick.com), [tweet](https://twitter.com/JimPurbrick) and [post](https://www.facebook.com/jimpurbrick) from [dConstruct](http://www.brightondigitalfestival.co.uk/events/dconstruct-2013/) and the [Brighton Miki Maker Faire](http://www.brightondigitalfestival.co.uk/events/brighton-mini-maker-faire/) this year. I hope to see you there.
