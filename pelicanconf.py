@@ -47,7 +47,7 @@ SOCIAL = (('facebook', 'http://facebook.com/jimpurbrick'),
           ('lastfm', 'http://last.fm/user/jimpurbrick'),
           ('flickr', 'http://flickr.com/jimpurbrick'),)
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['media']
 
 THEME = 'themes/tuxlite_tbs'
 DISPLAY_CATEGORIES_ON_MENU = False

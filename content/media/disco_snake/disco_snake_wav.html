@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+	    
+	<!-- charset must remain utf-8 to be handled properly by Processing -->
+		
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	
+	<title>Disco Snake : Built with Processing and Processing.js</title>
+	<meta name="viewport" content="width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/>
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    
+    <link type="text/css" href="disco_snake.css" rel="stylesheet"/>
+    <script type="text/javascript" src="audio.js"></script>
+    <script type="text/javascript" src="io.js"></script>
+    <script type="text/javascript" src="processing-1.0.0.min.js"></script>
+  </head>
+  <body>
+
+	<audio id="bell0" preload="auto" src="Bell001.wav"></audio>
+	<audio id="bell1" preload="auto" src="Bell002.wav"></audio>
+	<audio id="bell2" preload="auto" src="Bell003.wav"></audio>
+	<audio id="bell3" preload="auto" src="Bell004.wav"></audio>
+	<audio id="bell4" preload="auto" src="Bell005.wav"></audio>
+	<audio id="bell5" preload="auto" src="Bell006.wav"></audio>
+	<audio id="bell6" preload="auto" src="Bell007.wav"></audio>
+	<audio id="bell7" preload="auto" src="Bell008.wav"></audio>
+	<audio id="bell8" preload="auto" src="Bell009.wav"></audio>
+	<audio id="bell9" preload="auto" src="Bell010.wav"></audio>
+	<audio id="bell10" preload="auto" src="Bell011.wav"></audio>
+	<audio id="bell11" preload="auto" src="Bell012.wav"></audio>
+	<audio id="bell12" preload="auto" src="Bell013.wav"></audio>
+	<audio id="bell13" preload="auto" src="Bell014.wav"></audio>
+	<audio id="bell14" preload="auto" src="Bell015.wav"></audio>
+	<audio id="bell15" preload="auto" src="Bell016.wav"></audio>
+    
+	<audio id="bass0" preload="auto" src="Bass001.wav"></audio>
+	<audio id="bass1" preload="auto" src="Bass002.wav"></audio>
+	<audio id="bass2" preload="auto" src="Bass003.wav"></audio>
+	<audio id="bass3" preload="auto" src="Bass004.wav"></audio>
+	<audio id="bass4" preload="auto" src="Bass005.wav"></audio>
+	<audio id="bass5" preload="auto" src="Bass006.wav"></audio>
+	<audio id="bass6" preload="auto" src="Bass007.wav"></audio>
+	<audio id="bass7" preload="auto" src="Bass008.wav"></audio>
+	<audio id="bass8" preload="auto" src="Bass009.wav"></audio>
+	<audio id="bass9" preload="auto" src="Bass010.wav"></audio>
+	<audio id="bass10" preload="auto" src="Bass011.wav"></audio>
+	<audio id="bass11" preload="auto" src="Bass012.wav"></audio>
+	<audio id="bass12" preload="auto" src="Bass013.wav"></audio>
+	<audio id="bass13" preload="auto" src="Bass014.wav"></audio>
+	<audio id="bass14" preload="auto" src="Bass015.wav"></audio>
+	<audio id="bass15" preload="auto" src="Bass016.wav"></audio>
+    
+	<div id="content">
+	  <p>
+		<a href="disco_snake.html">Disco Snake</a> by <a href="http://jimpurbrick.com">Jim Purbrick</a>
+	  </p>
+	  <div id="snakeseq_container">
+		<canvas data-processing-sources="snakeseq/snakeseq.pde" width="320" height="320"></canvas>
+	  </div>
+      <p>
+		Use arrow keys to move, eat food to add notes to sequence, eat tail to switch samples. Food on right produces louder notes, food at top produces higher notes. Press any key to begin. Share the full URL to share your tune. Click <a href="disco_snake.html">here</a> to restart.
+	  </p>
+			
+      <p>
+        (Sound currently only works on browsers that support MP3 or OGG played via the HTML5 audio element (Firefox, Safari and Chrome). Even on those browsers HTML5 audio support is fragile. If you don't hear anything or don't like the glitches you're hearing, try using a different browser or reloading a few times.)
+      </p>
+	  <p>
+		Source code: <a href="snakeseq/snakeseq.pde">Disco Snake</a>  
+	  </p>
+			
+	  <p>
+		Built with <a href="http://processing.org" title="Processing.org">Processing</a>
+		and <a href="http://processingjs.org" title="Processing.js">Processing.js</a>
+	  </p>
+      <p><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="JimPurbrick">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></p>
+
+      <p><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fjimpurbrick.com%2Fmedia%2Fdisco_snake%2Fdisco_snake.html&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=dark&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowTransparency="true">
+      </iframe></p>
+	</div>
+    <script type="text/javascript" src="https://ssl.google-analytics.com/ga.js"></script>
+    <script type="text/javascript">
+      var pageTracker = _gat._getTracker("UA-4868739-1");
+      pageTracker._initData();
+      pageTracker._trackPageview();
+    </script>
+  </body>
+</html>

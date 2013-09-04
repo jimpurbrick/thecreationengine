@@ -1,0 +1,9 @@
+togglebutton nil 0.200000 4 6 1 1 1 1 Bass 2
+togglebutton nil 0.200000 4 6 2 1 1 1 Drums 2
+togglebutton nil 0.200000 4 6 3 1 1 1 Synths 2
+togglebutton nil 0.200000 4 6 4 1 1 1 Misc 2
+tactilezone nil 0.200000 4 6 1 2 4 4 _ 1
+pushbutton nil 0.200000 4 6 1 6 1 1 Play 2
+pushbutton nil 0.200000 4 6 2 6 1 1 Stop 2
+pushbutton nil 0.200000 4 6 3 6 1 1 Next 2
+pushbutton nil 0.200000 4 6 4 6 1 1 Prev 2

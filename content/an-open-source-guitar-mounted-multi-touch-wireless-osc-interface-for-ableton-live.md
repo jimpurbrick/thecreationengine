@@ -143,8 +143,8 @@ which includes more details on the Ableton Live routing we use.
   [David Packer]: http://jimpurbrick.com/feeds/atom/blog/www.sheepfilms.co.uk
   [Mrmr]: http://poly.share.dj/projects/#mrmr
   [interface builder]: http://poly.share.dj/downloads/mrmr_interfacebuilder_1.2.zip
-  [here]: http://jimpurbrick.com/media/100robots.mmr
+  [here]: http://jimpurbrick.com/static/media/100robots.mmr
   [LiveOSC]: http://monome.q3f.org/wiki/LiveOSC
-  [LiveOSCCallbacks.py]: http://jimpurbrick.com/media/LiveOSCCallbacks.py
+  [LiveOSCCallbacks.py]: http://jimpurbrick.com/static/media/LiveOSCCallbacks.py
   [My presentation on the hack]: http://vimeo.com/7967321
   [£5 App Christmas Special]: http://ianozsvald.com/2009/12/04/fivepoundapp_xmas_musical_special/

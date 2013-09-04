@@ -17,4 +17,4 @@ Editing
 
 1. Edit blog posts in the content directory
 2. make publish
-3. cd output; git push
+3. cd output; git commit -am "update"; git push

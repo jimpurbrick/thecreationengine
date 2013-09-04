@@ -110,4 +110,4 @@ very near future.
   [processing]: http://processing.org
   [processing.js]: http://processingjs.org
   [I’d played around with a bit previously]: http://jimpurbrick.com/2010/06/07/html-5-multimedia/
-  [Disco Snake]: http://jimpurbrick.com/media/disco_snake/disco_snake.html
+  [Disco Snake]: http://jimpurbrick.com/static/media/disco_snake/disco_snake.html

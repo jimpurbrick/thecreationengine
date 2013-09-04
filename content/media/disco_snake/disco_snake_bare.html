@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+	    
+	<!-- charset must remain utf-8 to be handled properly by Processing -->
+		
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	
+	<title>Disco Snake : Built with Processing and Processing.js</title>
+	<meta name="viewport" content="width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/>
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    
+    <link type="text/css" href="disco_snake.css" rel="stylesheet"/>
+    <script type="text/javascript" src="audio.js"></script>
+    <script type="text/javascript" src="io.js"></script>
+    <script type="text/javascript" src="processing-1.0.0.min.js"></script>
+  </head>
+  <body>
+
+	<audio id="bell0" preload="auto"><source src="Bell01.ogg"/><source src="Bell01.mp3"/></audio>
+	<audio id="bell1" preload="auto"><source src="Bell02.ogg"/><source src="Bell02.mp3"/></audio>
+	<audio id="bell2" preload="auto"><source src="Bell03.ogg"/><source src="Bell03.mp3"/></audio>
+	<audio id="bell3" preload="auto"><source src="Bell04.ogg"/><source src="Bell04.mp3"/></audio>
+	<audio id="bell4" preload="auto"><source src="Bell05.ogg"/><source src="Bell05.mp3"/></audio>
+	<audio id="bell5" preload="auto"><source src="Bell06.ogg"/><source src="Bell06.mp3"/></audio>
+	<audio id="bell6" preload="auto"><source src="Bell07.ogg"/><source src="Bell07.mp3"/></audio>
+	<audio id="bell7" preload="auto"><source src="Bell08.ogg"/><source src="Bell08.mp3"/></audio>
+	<audio id="bell8" preload="auto"><source src="Bell09.ogg"/><source src="Bell09.mp3"/></audio>
+	<audio id="bell9" preload="auto"><source src="Bell10.ogg"/><source src="Bell10.mp3"/></audio>
+	<audio id="bell10" preload="auto"><source src="Bell11.ogg"/><source src="Bell11.mp3"/></audio>
+	<audio id="bell11" preload="auto"><source src="Bell12.ogg"/><source src="Bell12.mp3"/></audio>
+	<audio id="bell12" preload="auto"><source src="Bell13.ogg"/><source src="Bell13.mp3"/></audio>
+	<audio id="bell13" preload="auto"><source src="Bell14.ogg"/><source src="Bell14.mp3"/></audio>
+	<audio id="bell14" preload="auto"><source src="Bell15.ogg"/><source src="Bell15.mp3"/></audio>
+	<audio id="bell15" preload="auto"><source src="Bell16.ogg"/><source src="Bell16.mp3"/></audio>
+    
+	<audio id="bass0" preload="auto"><source src="Bass 1.ogg"/><source src="Bass 1.mp3"/></audio>
+	<audio id="bass1" preload="auto"><source src="Bass 2.ogg"/><source src="Bass 2.mp3"/></audio>
+	<audio id="bass2" preload="auto"><source src="Bass 3.ogg"/><source src="Bass 3.mp3"/></audio>
+	<audio id="bass3" preload="auto"><source src="Bass 4.ogg"/><source src="Bass 4.mp3"/></audio>
+	<audio id="bass4" preload="auto"><source src="Bass 5.ogg"/><source src="Bass 5.mp3"/></audio>
+	<audio id="bass5" preload="auto"><source src="Bass 6.ogg"/><source src="Bass 6.mp3"/></audio>
+	<audio id="bass6" preload="auto"><source src="Bass 7.ogg"/><source src="Bass 7.mp3"/></audio>
+	<audio id="bass7" preload="auto"><source src="Bass 8.ogg"/><source src="Bass 8.mp3"/></audio>
+	<audio id="bass8" preload="auto"><source src="Bass 9.ogg"/><source src="Bass 9.mp3"/></audio>
+	<audio id="bass9" preload="auto"><source src="Bass 10.ogg"/><source src="Bass 10.mp3"/></audio>
+	<audio id="bass10" preload="auto"><source src="Bass 11.ogg"/><source src="Bass 11.mp3"/></audio>
+	<audio id="bass11" preload="auto"><source src="Bass 12.ogg"/><source src="Bass 12.mp3"/></audio>
+	<audio id="bass12" preload="auto"><source src="Bass 13.ogg"/><source src="Bass 13.mp3"/></audio>
+	<audio id="bass13" preload="auto"><source src="Bass 14.ogg"/><source src="Bass 14.mp3"/></audio>
+	<audio id="bass14" preload="auto"><source src="Bass 15.ogg"/><source src="Bass 15.mp3"/></audio>
+	<audio id="bass15" preload="auto"><source src="Bass 16.ogg"/><source src="Bass 16.mp3"/></audio>
+    
+	<div id="content">
+	  <p>
+		<a href="disco_snake_bare.html">Disco Snake</a> by <a href="http://jimpurbrick.com">Jim Purbrick</a>
+	  </p>
+	  <div id="snakeseq_container">
+		<canvas data-processing-sources="snakeseq/snakeseq.pde" width="320" height="320"></canvas>
+	  </div>
+	</div>
+  </body>
+</html>

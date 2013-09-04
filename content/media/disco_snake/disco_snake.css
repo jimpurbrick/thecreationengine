@@ -1,0 +1,52 @@
+body 
+{
+    margin: 0;
+    font-family: verdana, geneva, arial, helvetica, sans-serif; 
+    font-size: 11px;
+    color: #999999;
+    background-color: #000000;
+    text-decoration: none; 
+    font-weight: normal; 
+    line-height: normal; 
+}
+
+#snakeseq_container
+{
+    border: #333333 solid 1px;
+}
+		
+#content
+{
+    width: 328px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a
+{ 
+    color: #3399cc; 
+}
+
+a:link
+{
+    color: #3399cc; 
+    text-decoration: underline; 
+}
+
+a:visited
+{ 
+    color: #3399cc; 
+    text-decoration: underline;
+}
+
+a:active
+{
+    color: #3399cc;
+    text-decoration: underline;
+}
+
+a:hover
+{
+    color: #3399cc;
+    text-decoration: underline;
+}

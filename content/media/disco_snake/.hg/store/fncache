@@ -1,0 +1,14 @@
+data/.hgignore.i
+data/audio.js.i
+data/disco_snake.css.i
+data/disco_snake.html.i
+data/disco_snake.html.old.i
+data/disco_snake_bare.html.i
+data/disco_snake_new.html.i
+data/io.js.i
+data/processing-0.9.7.min.js.i
+data/processing.js.i
+data/processing.js.0.8.i
+data/snakeseq.pde.i
+data/snakeseq/snakeseq.pde.i
+data/processing-1.0.0.min.js.i
