@@ -6,10 +6,10 @@ I've been a big fan of hackathons since one of the first Yahoo! Hack
 Days I attended at Alexandra Palace was [struck by
 lightning](http://www.wired.com/software/coolapps/news/2007/06/hackday). The
 lightning caused the fire alarms to go off which opened the roof to
-let the torrential pour on to hundreds of geeks and laptops. The
+let the torrential rain pour on to hundreds of geeks and laptops. The
 lighting strike also did a wonderful job of breaking the ice: within
-minutes hundreds of attendees were huddling in the foyer and had
-plenty of weather to talk about while others busily
+minutes hundreds of attendees were huddling in the foyer talking about
+the weather while others busily
 [snapped](http://www.flickr.com/photos/joshrussell/557302741/) the few
 stalwart hackers who cracked open umbrellas and continued to code
 regardless.
@@ -52,24 +52,23 @@ midnight](http://instagram.com/p/ZY_qgtQAb0/) and taking them on tour.
 <div class="flex-video widescreen"><<iframe src="http://www.youtube.com/embed/4DAAFR8goOw" frameborder="0" allowfullscreen=""></iframe></div>
 
 I had enormous fun building a catapult on top of Whitstable Castle and
-then launching cows from the battlements while re-enacting Monty
-Python and the Holy Grail at my first Facebook London hackathon and
-I'm looking forward to the next one at the Brighton Dome on the 26th
-of September. The [Brighton
+reenacting Monty Python and the Holy Grail at my first Facebook
+hackathon and I'm looking forward to the next one at the Brighton Dome
+on the 26th of September. The [Brighton
 hackathon](http://www.brightondigitalfestival.co.uk/events/parse-by-the-sea/)
-will be extra special as it's the first time we're opening a Facebook
-London internal hackathon up to the public as part of the [Brighton
-Digital Festival](http://www.brightondigitalfestival.co.uk/). The
-format will be the same as a normal hackathon: it will start on
-Thursday night and dozens of the super smart Facebook London engineers
-will be there hacking on amazing projects until the next morning. The
-only differences from a normal internal Facebook hackathon are that
-external developers will be joining the fun and so we'll be building
-on top of the [Facebook](https://developers.facebook.com/),
+will be special as it's the first time we're opening a Facebook London
+hackathon up to the public as part of the [Brighton Digital
+Festival](http://www.brightondigitalfestival.co.uk/). The format will
+be the same as a normal hackathon: it will start on Thursday night and
+dozens of the super smart Facebook London engineers will be there
+hacking on amazing projects until the next morning. The only
+differences from a normal internal Facebook hackathon are that
+external developers will be joining us and so we'll be building on top
+of the [Facebook](https://developers.facebook.com/),
 [Parse](https://www.parse.com/),
 [Deezer](http://developers.deezer.com/), [Unity](http://unity3d.com/)
 and [Withings](http://www.withings.com/) APIs rather than hacking on
-secret internal Facebook code.
+secret Facebook code.
 
 If that sounds fun and you can convince yourself or your boss that
 taking a day off work to learn is worthwhile, send an email to
