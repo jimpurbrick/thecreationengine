@@ -51,3 +51,4 @@ STATIC_PATHS = ['media']
 
 THEME = 'themes/tuxlite_tbs'
 DISPLAY_CATEGORIES_ON_MENU = False
+RELATIVE_URLS = True
