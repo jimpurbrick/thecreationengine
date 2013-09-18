@@ -41,7 +41,7 @@ help:
 	@echo '                                                                       '
 
 
-html: clean $(OUTPUTDIR)/index.html
+html: regenerate
 
 $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -49,8 +49,8 @@ $(OUTPUTDIR)/%.html:
 clean:
 	[ ! -d $(OUTPUTDIR) ] || find $(OUTPUTDIR) \( ! -path '*/.*' \) -mindepth 1 -delete
 
-regenerate: clean
-	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+regenerate:
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 serve:
 	cd $(OUTPUTDIR) && $(PY) -m pelican.server

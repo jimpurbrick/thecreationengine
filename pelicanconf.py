@@ -52,3 +52,11 @@ STATIC_PATHS = ['media']
 THEME = 'themes/tuxlite_tbs'
 DISPLAY_CATEGORIES_ON_MENU = False
 RELATIVE_URLS = True
+
+# Feed generation is usually not desired when developing
+FEED_ATOM = "feeds/atom/blog/index.html"
+FEED_RSS = "feeds/rss/blog/index.html"
+FEED_ALL_ATOM = None
+FEED_ALL_RSS = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
