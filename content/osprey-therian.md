@@ -8,15 +8,15 @@ just been released and Philip Rosedale had said in the press release
 $10 for her yellow jumpsuit and sword moves and I'm sure other people
 would too. Custom Animations are going to liberate the world of Second
 Life in ways I'm sure I can't
-imagine."](http://www.businesswire.com/news/home/20040615005481/en/Life-3D-Online-World-Users-Power-Character). Plenty
-of people responded by making sword fighting moves, but the software
-and network latency in Second Life made actually having a satisfying
-sword fight hard, so I decided to play around with Second Life's
-scripting language, LSL, to see if I could build an interesting turn
-based sword fighting game. Once I had a prototype up and running I
-realized that it might be fun to turn it in to a trading card game and
-so asked on the Second Life forums if anyone would like to help with
-the artwork. [Osprey
+imagine."](http://www.businesswire.com/news/home/20040615005481/en/Life-3D-Online-World-Users-Power-Character)
+Plenty of people responded by making sword fighting moves, but the
+software and network latency in Second Life made actually having a
+satisfying sword fight hard, so I decided to play around with Second
+Life's scripting language, LSL, to see if I could build an interesting
+turn based sword fighting game. Once I had a prototype up and running
+I realized that it might be fun to turn it in to a trading card game
+and so asked on the Second Life forums if anyone would like to help
+with the artwork. [Osprey
 Therian](https://my.secondlife.com/osprey.therian) replied.
 
 I had no idea who Osprey was in real life, but in Second Life she was
