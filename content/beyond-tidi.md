@@ -1,5 +1,5 @@
 Title: Beyond Time Dilation?
-Date: 2014-01-29
+Date: 2014-01-29 06:38
 Tags: eve, virtualworlds, simulation, pubsub, technology
 
 ![The Battle of B-R5RB](http://i.imgur.com/LOVyhw4.jpg "The Battle of B-R5RB")
