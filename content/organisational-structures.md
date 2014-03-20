@@ -75,5 +75,7 @@ Similarly, the innovative company is often a clever combination of
 existing organisational structures maintained by a small and heroic
 management team.
 
+I'm currently very happy as one of the nodes in the middle left below. [We're hiring](https://www.facebook.com/careers/teams/engineering).
+
 ![Organizational Charts](http://www.bonkersworld.net/images/2011.06.27_organizational_charts.png "Organizational Charts")
-(via http://www.bonkersworld.net/)
+(via [http://www.bonkersworld.net/](bonkersworld.net) )
