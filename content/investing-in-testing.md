@@ -27,32 +27,33 @@ investigate the failure and change or remove the test. Even good test
 investments incur an opportunity cost as time spent writing tests is
 time not spent improving the software being tested.
 
-An alpha software engineer then is one that can pick the investments
-that pay off while avoiding spending time writing tests that
-don't. There are lots of useful investment strategies that can be
-employed. In some cases test driven development can save more
-development time than it costs to write the tests, meaning that the
-the investment can pay off in hours. In other cases the past can be a
-useful guide to the future: if a bug is discovered then writing a test
-to ensure that it can't occur again is often a good bet. Similarly, if
-changes to one part of a system cause failures in another then writing
-tests for those dependencies can avoid similar breakages in the
-future. In both cases it's easier to add the tests later if the code
-is designed to be testable, which in turn means that it's often a good
-idea to write at least one test for each part of the system, to ensure
-that more tests can be added when needed. Adding tests to code that
-you need to change can be a good strategy as it prioritises parts of
-the system that are changing while allowing parts that just work to
-keep running without tests. However, if those parts of the system
-continually change the tests being added can add maintenence cost
-without having time to deliver a return on their investment. In a
-system where the user interface behaviour changes less frequently than
-its implementation, investing in end-to-end tests can be
-worthwhile. The end-to-end tests have the opportunity to find many
-different bugs in different revisions of the software, which is
-changing faster than the user interface, but this needs to be weighed
-against the high maintenence costs of end-to-end tests and the
-difficulty of diagnosing problems when they fail.
+An [alpha](http://en.wikipedia.org/wiki/Alpha_%28finance%29) software
+engineer then is one that can pick the investments that pay off while
+avoiding spending time writing tests that don't. There are lots of
+useful investment strategies that can be employed. In some cases test
+driven development can save more development time than it costs to
+write the tests, meaning that the the investment can pay off in
+hours. In other cases the past can be a useful guide to the future: if
+a bug is discovered then writing a test to ensure that it can't occur
+again is often a good bet. Similarly, if changes to one part of a
+system cause failures in another then writing tests for those
+dependencies can avoid similar breakages in the future. In both cases
+it's easier to add the tests later if the code is designed to be
+testable, which in turn means that it's often a good idea to write at
+least one test for each part of the system, to ensure that more tests
+can be added when needed. Adding tests to code that you need to change
+can be a good strategy as it prioritises parts of the system that are
+changing while allowing parts that just work to keep running without
+tests. However, if those parts of the system continually change the
+tests being added can add maintenence cost without having time to
+deliver a return on their investment. In a system where the user
+interface behaviour changes less frequently than its implementation,
+investing in end-to-end tests can be worthwhile. The end-to-end tests
+have the opportunity to find many different bugs in different
+revisions of the software, which is changing faster than the user
+interface, but this needs to be weighed against the high maintenence
+costs of end-to-end tests and the difficulty of diagnosing problems
+when they fail.
 
 In all of these cases the goal is to write the tests with the highest
 expected return, or at least write those tests first. The problem with
