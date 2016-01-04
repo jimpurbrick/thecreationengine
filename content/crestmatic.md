@@ -41,5 +41,6 @@ branch](http://jimpurbrick.com/crestmatic/) and to use
 [nightli.es](https://nightli.es/) to trigger a build every night to
 ensure that the documentation is kept up to date. Please feel free to
 fork the repo, submit a pull request if you'd like to see some changes
-or just donate some ISK to Capt Out if you find the documentation or
-code useful.
+or just donate some ISK to Capt Out if you find the
+[documentation](http://jimpurbrick.com/crestmatic/) or
+[code](https://github.com/jimpurbrick/crestmatic) useful.
