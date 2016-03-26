@@ -19,16 +19,15 @@ edition [Blue Note](http://www.bluenote.com/) records for £5 from
 Francisco my brother and I gorged on releases by the
 [Quannum](https://en.wikipedia.org/wiki/Quannum_Projects) collective
 hungrily snatched up from [Amoeba Music](http://www.amoeba.com/). A
-while ago I was walking home from
-[BrewDog](https://www.brewdog.com/bars/uk/brighton) in Brighton with
-[Alistair](http://alistairriddoch.org/). We were both enthusing about
-the amazing [Resident](http://www.resident-music.com/) in Brighton,
-but I commented that it was a shame that even Resident didn't have
-room for the incredible [Tera Melos](http://teramelos.net/) who I had
-just seen at [The Green Door
-Store](http://www.thegreendoorstore.co.uk/) after finding their music
-along with [Cleft](http://www.cleftband.co.uk), [100
-Onces](https://100onces.bandcamp.com/) and [many
+while ago while I was walking home from
+[BrewDog](https://www.brewdog.com/bars/uk/brighton) with
+[Alistair](http://alistairriddoch.org/) we were both enthusing about
+the amazing [Resident](http://www.resident-music.com/) in Brighton. I
+commented that it was a shame that even Resident didn't have room for
+the incredible [Tera Melos](http://teramelos.net/) who I had just seen
+at [The Green Door Store](http://www.thegreendoorstore.co.uk/) after
+finding their music along with [Cleft](http://www.cleftband.co.uk),
+[100 Onces](https://100onces.bandcamp.com/) and [many
 others](https://bandcamp.com/pointmass) on
 [Bandcamp](https://bandcamp.com/).
 
@@ -53,9 +52,9 @@ becoming increasingly hard.
 A couple of days ago I was reminded of the conversation with Alistair
 when I started seeing mentions of this year's
 [#recordstoreday](https://twitter.com/hashtag/recordstoreday?lang=en-gb). #recordstoreday
-is great for record stores; Bandcamp is better for musicians; why
-isn't there a #bandcampday? On the 23rd of April, the week after you
-spend the afternoon buying exclusive slabs of shiny black vinyl at
+is great for record stores; Bandcamp is great for the rest of music;
+why isn't there a #bandcampday? On the 23rd of April, the week after
+you spend the afternoon buying exclusive slabs of shiny black vinyl at
 your local record shop, why not spend an afternoon uncovering some of
 the musical treasures on Bandcamp? I hope to have the first [Story
 Bird](http://storybird.band/) album and new [Point
