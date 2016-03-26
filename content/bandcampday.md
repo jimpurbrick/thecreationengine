@@ -18,16 +18,17 @@ edition [Blue Note](http://www.bluenote.com/) records for £5 from
 [Fopp](http://www.fopp.com/). While working at Linden Lab in San
 Francisco my brother and I gorged on releases by the
 [Quannum](https://en.wikipedia.org/wiki/Quannum_Projects) collective
-hungrily snatched up from [Amoeba Music](http://www.amoeba.com/). A
-while ago while I was walking home from
+hungrily snatched up from [Amoeba
+Music](http://www.amoeba.com/). While walking home from
 [BrewDog](https://www.brewdog.com/bars/uk/brighton) with
-[Alistair](http://alistairriddoch.org/) we were both enthusing about
-the amazing [Resident](http://www.resident-music.com/) in Brighton. I
-commented that it was a shame that even Resident didn't have room for
-the incredible [Tera Melos](http://teramelos.net/) who I had just seen
-at [The Green Door Store](http://www.thegreendoorstore.co.uk/) after
-finding their music along with [Cleft](http://www.cleftband.co.uk),
-[100 Onces](https://100onces.bandcamp.com/) and [many
+[Alistair](http://alistairriddoch.org/) recently, we were both
+enthusing about the amazing [Resident](http://www.resident-music.com/)
+in Brighton. I commented that it was a shame that even Resident didn't
+have room for the incredible [Tera Melos](http://teramelos.net/) who I
+had just seen at [The Green Door
+Store](http://www.thegreendoorstore.co.uk/) after finding their music
+along with [Cleft](http://www.cleftband.co.uk), [100
+Onces](https://100onces.bandcamp.com/) and [many
 others](https://bandcamp.com/pointmass) on
 [Bandcamp](https://bandcamp.com/).
 
