@@ -63,7 +63,7 @@ Mass](https://pointmass.bandcamp.com/) music finished by then; I have
 some old Vanishing Trick tracks I can release and if I can find a good
 tape recorder I might even be able to upload some of the Timeless Mind
 recordings from 22 years ago. If you're a musician, do you have any
-hidden jems you could release on the 23rd of April? If so, join [this
+hidden gems you could release on the 23rd of April? If so, join [this
 event](https://www.facebook.com/events/691558950987175/) and let's see
 how much music we can release on the first ever
 [#bandcampday](https://twitter.com/hashtag/bandcampday?lang=en-gb).
