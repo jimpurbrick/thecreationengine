@@ -21,16 +21,15 @@ and absurd. The last time I burned CDs was 3 years ago, when I made a
 few copies of the [100 Robots
 Sustain](https://100robots.bandcamp.com/album/sustain) album for
 friends. My current MacBook Pro doesn't have an optical drive, let
-alone a CD writer. The CD player in our living room hasn't worked for
-years. I ripped out CD colleciton to MP3 a decade ago when we still
-lived in Nottingham and needed to make space for our new family. Until
-I tested the Story Bird CDs, the last 2 operational CD players in our
-house haven't played a CD in months. It's great to see real, physical
-copies of the album I've spent the last 6 months working on, the CDs
-sound great, the hand printed covers look amazing and make each copy a
-unique collectors item, but as with the piles of vinyl records sold
-tomorrow on \#recordstoreday they will mostly serve as limited edition
-souvenirs.
+alone a CD writer. The CD player in our living room doesn't work. I
+ripped our CD collection to MP3 a decade ago when we still lived in
+Nottingham and needed to make space for our new family. Until I tested
+the Story Bird CDs, the last 2 operational CD players in our house
+haven't played a CD in months. It's great to see real, physical copies
+of the album I've spent the last 6 months working on, the CDs sound
+great and the unique hand printed covers look amazing, but as with the
+piles of vinyl records sold tomorrow on \#recordstoreday they will
+mostly serve as limited edition souvenirs.
 
 \#recordstoreday promotes collecting records just as the \#comicbookday
  that inspired it promotes collecting comics. Fetishising obsolete
