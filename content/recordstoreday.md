@@ -30,12 +30,12 @@ copies of the album I've spent the last 6 months working on. The CDs
 sound great and the hand printed covers look amazing and make each
 copy a unique collectors item. Hopefully some people will buy some of
 the CDs tomorrow, but as with the piles of vinyl sold tomorrow on
-#recordstoreday they will mostly serve as limited edition souvenirs.
+\#recordstoreday they will mostly serve as limited edition souvenirs.
 
-#recordstoreday promotes collecting records just as the comic book day
+\#recordstoreday promotes collecting records just as the comic book day
  that inspired it promotes collecting comics. Fetishising obsolete
  formats is harmless fun, but discovering new music and supporting
  musicians is important. On the 23rd of April, once you've filed away
  the limited edition vinyl you queued overnight to buy on
- #recordstoreday, spend some time in the comfort of your own home
+ \#recordstoreday, spend some time in the comfort of your own home
  downloading some amazing music on [#bandcampday](https://twitter.com/hashtag/bandcampday?lang=en-gb).
