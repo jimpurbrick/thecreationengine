@@ -2,7 +2,7 @@ Title: Strange Tales From Other Worlds
 Date: 2016-05-10
 Tags: Second Life, EVE Online, MMORPG, MUD, Virtual World
 
-<div class="flex-video"><iframe src="https://www.youtube.com/watch?v=WAh-6nEHwqI" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="flex-video widescreen"><iframe src="https://www.youtube.com/embed/WAh-6nEHwqI" frameborder="0" allowfullscreen=""></iframe></div>
 
 At the end of last year, [Michael Brunton
 Spall](www.brunton-spall.co.uk) and [Jon
@@ -22,5 +22,5 @@ uploaded to YouTube
 [here](https://www.youtube.com/watch?v=WAh-6nEHwqI). The strange tales
 are mostly true, but a few errors snuck in to the second telling:
 firstly MUD stands for Multi User Dungeon and secondly I forgot to
-credit Brian Bosse for his amazing work on TiDi the second time
+credit Brian Bossé for his amazing work on TiDi the second time
 around.
