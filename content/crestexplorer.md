@@ -2,7 +2,7 @@ Title: crestexplorer
 Date: 2016-08-21 21:48
 Tags: eve, ccp, technology, rest, web, tools, github, javascript
 
-<div class="flex-video widescreen"><iframe src="https://www.youtube.com/watch?v=zYU2lier4GA" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="flex-video widescreen"><iframe src="https://www.youtube.com/embed/zYU2lier4GA" frameborder="0" allowfullscreen=""></iframe></div>
 
 At the 3rd Party Dev State of the Union at EVE Fanfest 2016 earlier
 this year, CCP FoxFour drew my attention to a limitation of the
