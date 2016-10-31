@@ -2,7 +2,7 @@ Title: Creating A Safe Environment For People In VR
 Date: 2016-10-31 23:28
 Tags: Second Life, EVE Online, MMORPG, MUD, Virtual World, VR
 
-<div class="flex-video widescreen"><iframe src="https://www.youtube.com/watch?v=JEWHaDt-qiE" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="flex-video widescreen"><iframe src="https://www.youtube.com/embed/JEWHaDt-qiE" frameborder="0" allowfullscreen=""></iframe></div>
 
 I was very happy that [Oculus](https://www.oculus.com/) found time at
 [OC3](https://www.oculusconnect.com/) to host a panel on creating a
