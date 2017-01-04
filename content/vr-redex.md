@@ -32,7 +32,7 @@ revealed. We can exploit the idempotency by optimistically processing
 the action locally before sending it to other clients to minimise
 network latency.
 
-<script src="http://gist-it.appspot.com/https://github.com/jimpurbrick/pairs/blob/18e2184bda3e5472c5ad077fde4a87de7293b7f3/index.vr.js#L62-L71"></script>
+<script src="http://gist-it.appspot.com/https://github.com/jimpurbrick/pairs/blob/18e2184bda3e5472c5ad077fde4a87de7293b7f3/index.vr.js?slice=62:71&footer=0"></script>
 
 Scoring is trickier. While each client can tell when a pair has been
 revealed, only the first player to reveal the pair should score a
@@ -43,12 +43,12 @@ inconsistency is to nominate one client to be the master and only have
 that client generate score actions. This can be implemented as another
 middleware to avoid generating actions inside a reducer.
 
-<script src="http://gist-it.appspot.com/https://github.com/jimpurbrick/pairs/blob/18e2184bda3e5472c5ad077fde4a87de7293b7f3/index.vr.js#L47-L60"></script>
+<script src="http://gist-it.appspot.com/https://github.com/jimpurbrick/pairs/blob/18e2184bda3e5472c5ad077fde4a87de7293b7f3/index.vr.js?slice=47:60&footer=0"></script>
 
 The master client can also be made responsible for sending the current
 state of the simulation to new clients to support late joining.
 
-<script src="http://gist-it.appspot.com/https://github.com/jimpurbrick/pairs/blob/18e2184bda3e5472c5ad077fde4a87de7293b7f3/index.vr.js#L78-L94"></script>
+<script src="http://gist-it.appspot.com/https://github.com/jimpurbrick/pairs/blob/18e2184bda3e5472c5ad077fde4a87de7293b7f3/index.vr.js?slice=78:94&footer=0"></script>
 
 With those parts done the app is usable and makes an interesting
 example of one possible way to network ReactVR applications. This was
