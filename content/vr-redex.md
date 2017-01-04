@@ -68,5 +68,4 @@ of actions to allow heterogeneous clients and [interest
 management](https://scholar.google.com/scholar?q=interest+management+virtual+environments&hl=en&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwi3peaslYXOAhVM6iYKHZ_pCd8QgQMIJTAA).
 
 If you'd like to play the ReactVR version of pairs or see the rest of
-the code, it's available on
-[github](https://github.com/jimpurbrick/pairs) here.
+the code, it's available on github [here](https://github.com/jimpurbrick/pairs).
