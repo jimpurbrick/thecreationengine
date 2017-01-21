@@ -26,8 +26,8 @@ With those pieces in place the simplest way to network the clients is
 to implement a middleware function to send every action generated in
 one client to all the others. In the case of actions which show a tile
 this is sufficient as the action is idempotent. If two players click
-on a square at the same the order that the actions are reduced in
-doesn’t matter, in either case the result is that the element is
+on a square at the same time, the order that the actions are reduced in
+doesn’t matter: in either case the result is that the element is
 revealed. We can exploit the idempotency by optimistically processing
 the action locally before sending it to other clients to minimise
 network latency.
