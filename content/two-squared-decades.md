@@ -23,4 +23,4 @@ Climate change may mean that our real world horizons are closer and the piles of
 
 When I watch my children grow up with [YouTube](https://www.youtube.com/) it's amazing to think about what they will accomplish in the future. If they want to do something, they watch it, learn it and do it. Nothing is unknown and nothing is impossible. They're incredible, which is lucky, as together we're going to have to save the world.
 
-These thoughts are my own. They don't represent my employer. They don't attempt to speak for my generation. I write them and share them because I can and because I want to. Someone might read them and comment on them or link to them to build a web. Thats how my generation works and that's what we built. We may have not had the Beatles, but I'm OK with that.
+These thoughts are my own. They don't represent my employer. They don't attempt to speak for my generation. I write them and share them because I can and because I want to. Someone might read them and comment on them or link to them to build a web. Thats how my generation works and that's what we built. We may not have had the Beatles, but I'm OK with that.
