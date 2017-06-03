@@ -66,7 +66,7 @@ that I have felt like I might be working somewhere that has been
 disrupting existing industries. The view that Facebook is an
 existential threat to [the open
 web](http://anildash.com/2012/12/the-web-we-lost.html) (a prospect
-that [Bryan](http://www.serpentine.com/blog/) likens the bug sucking
+that [Bryan](http://www.serpentine.com/blog/) likens to the bug sucking
 the wildebeest dry) is relatively widespread and I remember a circle
 forming around me when I told [Aral](https://ar.al/) and some of the
 other web developers at a [Skiff](http://www.theskiff.org/) Christmas
