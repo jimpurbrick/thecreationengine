@@ -3,19 +3,19 @@ Date: 2017-06-03
 Tags: life, music, vr, technology, politics, holiday, wedding, election, poll
 Slug: generation-jpod
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dannybirchall/6391786127/in/photolist-aJPzk6-4uesev-4uiumw-MjYmiQ" title="DC Comics Watchmen smiley badge"><img src="https://c1.staticflickr.com/8/7017/6391786127_cc5e19386a_o.jpg" width="1500" height="1500" alt="DC Comics Watchmen smiley badge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 I've just got back from [Kaş](https://en.wikipedia.org/wiki/Ka%C5%9F)
 where I spent a lovely few days celebrating [Pinar and Simon's
 wedding](https://www.flickr.com/photos/jimpurbrick/albums/72157681607365593)
 and while there spent a few hours reading [Now We Are
-40](http://www.harpercollins.ca/9780008185329/now-we-are-40) by: a
+40](http://www.harpercollins.ca/9780008185329/now-we-are-40): a
 thoughtful and entertaining look at everything from house music to
 house prices from the perspective of Generation X.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dannybirchall/6391786127/in/photolist-aJPzk6-4uesev-4uiumw-MjYmiQ" title="DC Comics Watchmen smiley badge"><img src="https://c1.staticflickr.com/8/7017/6391786127_cc5e19386a_o.jpg" width="1500" height="1500" alt="DC Comics Watchmen smiley badge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 While a lot of the book was familiar, I was surprised how different my
 experience has been. I don't feel part of the last generation who grew
-up without technology, but part of the first generation that grew up
+up without digital technology, but part of the first generation to grow up
 with it.
 
 I learned to program at school, started writing code professionally at
@@ -26,22 +26,22 @@ to Vancouver to work in the games industry there). I may have bought my
 first smartphone when I got my first job, but my life has
 felt digital from the start.
 
-One focus of Now We Are 40 are the changes in music over the last few
+One focus of "Now We Are 40" is the changes in music over the last few
 decades from the pre-digital rave scene to the current over-saturation
 of recorded music available from streaming services which has rendered
 selling recorded music unsustainable for almost everyone. Food and
 drink followed on as the next big thing, something I've experienced
 personally as my
 [brother-in-law](https://www.instagram.com/3scoopsplease/) morphed
-from being my hip hop pimp to my sommelier. You may not need to buy
+from hip hop pimp to sommelier. You may not need to buy
 recorded music any more, but you still need to eat and drink.
 
 In fact raves, clubs, cafes and restaurants are mostly a place to hang
-out. When people were incredulous at the idea of spending real money on
-virtual goods [Cory](http://ondrejka.net/) and I used to point out
+out. When people were incredulous at the idea of spending real money
+on virtual goods [Cory](http://ondrejka.net/) and I used to point out
 that most of what you were buying in Starbucks was not coffee or
-service, but an experience just as ephemeral as a [virtual coffee
-mug](http://terranova.blogs.com/terra_nova/2004/12/you_cant_take_i.html).
+service, but an experience just as ephemeral as a [virtual
+hat](http://terranova.blogs.com/terra_nova/2004/12/you_cant_take_i.html).
 
 Virtual worlds like [Second Life](http://secondlife.com/) and now
 [Social
@@ -60,17 +60,17 @@ Second Life organised by
 advise his new tech startup because, after music and food, technology
 is apparently the new rock and roll.
 
-For most of my career I have been writing code to build experiences
-which compliment the real world and working at Facebook is the first
-time that I have felt like I might be working somewhere that has been
+For most of my career I have been building experiences which
+compliment the real world and working at Facebook is the first time
+that I have felt like I might be working somewhere that has been
 disrupting existing industries. The view that Facebook is an
 existential threat to [the open
 web](http://anildash.com/2012/12/the-web-we-lost.html) (a prospect
-that [Bryan](http://www.serpentine.com/blog/) likens to worrying that
-the bug will suck the wildebeest dry) is relatively widespread and I
-remember a circle forming around me when I told [Aral](https://ar.al/)
-and some of the other web developers at a [Skiff](http://www.theskiff.org/)
-Christmas party that I was going to work there.
+that [Bryan](http://www.serpentine.com/blog/) likens the bug sucking
+the wildebeest dry) is relatively widespread and I remember a circle
+forming around me when I told [Aral](https://ar.al/) and some of the
+other web developers at a [Skiff](http://www.theskiff.org/) Christmas
+party that I was going to work there.
 
 In fact I've spent much of the last few years working on
 [open](https://buckbuild.com/) [source](http://fbinfer.com/) tools
