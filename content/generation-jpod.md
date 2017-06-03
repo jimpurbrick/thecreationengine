@@ -3,6 +3,8 @@ Date: 2017-06-03
 Tags: life, music, vr, technology, politics, holiday, wedding, election, poll
 Slug: generation-jpod
 
+<a href="https://en.wikipedia.org/wiki/File:JPod.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/f/fa/JPod.jpg"></a>
+
 I've just got back from [Kaş](https://en.wikipedia.org/wiki/Ka%C5%9F)
 where I spent a lovely few days celebrating [Pinar and Simon's
 wedding](https://www.flickr.com/photos/jimpurbrick/albums/72157681607365593)
@@ -10,8 +12,6 @@ and while there spent a few hours reading [Now We Are
 40](http://www.harpercollins.ca/9780008185329/now-we-are-40): a
 thoughtful and entertaining look at everything from house music to
 house prices from the perspective of Generation X.
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/dannybirchall/6391786127/in/photolist-aJPzk6-4uesev-4uiumw-MjYmiQ" title="DC Comics Watchmen smiley badge"><img src="https://c1.staticflickr.com/8/7017/6391786127_cc5e19386a_o.jpg" width="1500" height="1500" alt="DC Comics Watchmen smiley badge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 While a lot of the book was familiar, I was surprised how different my
 experience has been. I don't feel part of the last generation who grew
