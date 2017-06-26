@@ -68,4 +68,6 @@ of actions to allow heterogeneous clients and [interest
 management](https://scholar.google.com/scholar?q=interest+management+virtual+environments&hl=en&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwi3peaslYXOAhVM6iYKHZ_pCd8QgQMIJTAA).
 
 If you'd like to play the ReactVR version of pairs or see the rest of
-the code, it's available on github [here](https://github.com/facebook/react-vr/tree/master/Examples/Pairs).
+the code, it's available on github [here](https://github.com/facebook/react-vr/tree/master/Examples/Pairs). 
+
+All code in this post is made available under the [ReactVR examples license](https://github.com/facebook/react-vr/blob/master/LICENSE-examples).
