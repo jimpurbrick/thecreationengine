@@ -1,5 +1,5 @@
 Title: ReactVR Redux Revisited
-Date: 2017-06-15 20:20
+Date: 2017-07-04 20:29
 Tags: vr, javascript, simulation, development, software engineering
 Slug: react-vr-redux-revisited
 
