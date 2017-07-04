@@ -18,12 +18,12 @@ network logic I kept the network code in a redux middleware and moved
 the application logic to an isValid callback which returns true if an
 action can be safely reduced:
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/da1c9371d889ace2411c0fbacbb725a7d3610a91/Examples/Pairs/reducers/validate.js?slice=27:44&footer=0"></script>
+<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/da1c9371d889ace2411c0fbacbb725a7d3610a91/Examples/Pairs/reducers/validate.js?slice=26:44&footer=0"></script>
 
 With this in place the simple, conservative, dumbTerminalConsistency
 policy can be implemented in a few lines of code:
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/da1c9371d889ace2411c0fbacbb725a7d3610a91/Examples/Pairs/replicate.js?slice=20:37&footer=0"></script>
+<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/da1c9371d889ace2411c0fbacbb725a7d3610a91/Examples/Pairs/replicate.js?slice=19:37&footer=0"></script>
 
 Clients generate actions in response to UI interactions and send those
 actions to the master. The master returns valid actions which are then
@@ -38,7 +38,7 @@ The same isValid method can be reused to implement an optimistic
 clientPredictionConsistency policy which treats the clients as
 decoupled simulations:
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/da1c9371d889ace2411c0fbacbb725a7d3610a91/Examples/Pairs/replicate.js?slice=39:59&footer=0"></script>
+<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/da1c9371d889ace2411c0fbacbb725a7d3610a91/Examples/Pairs/replicate.js?slice=38:59&footer=0"></script>
 
 When using this middleware, clients immediately reduce actions which
 are valid given their local state and distribute local actions to all
@@ -97,3 +97,10 @@ latency and it would be a shame to see the sense of presence it can
 create broken by the network round-trips inherent in client-server
 architectures. Optimistic updates, client prediction and zero latency
 should be the default.
+
+If you'd like to play the ReactVR version of pairs or see the rest of
+the code, it's available on github
+[here](https://github.com/facebook/react-vr/tree/master/Examples/Pairs).
+
+All code in this post is made available under the [ReactVR examples
+license](https://github.com/facebook/react-vr/blob/master/LICENSE-examples).
