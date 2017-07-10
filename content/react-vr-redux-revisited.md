@@ -10,7 +10,7 @@ with [Redux](http://redux.js.org/) that were unsatisfactory: there
 wasn't a clean separation between the application logic and network
 code and, while the example exploited idempotency to reduce latency
 for some actions, actions which could generate conflicts used a
-conservative consistency mechanism which added a at least a network
+conservative consistency mechanism which added at least a network
 round trip to those actions. So, I did some more hacking.
 
 In an attempt to create a clean separation between application and
@@ -18,12 +18,12 @@ network logic I kept the network code in a redux middleware and moved
 the application logic to an isValid callback which returns true if an
 action can be safely reduced:
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/da1c9371d889ace2411c0fbacbb725a7d3610a91/Examples/Pairs/reducers/validate.js?slice=26:44&footer=0"></script>
+<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/484f375666ff362e3013d809e3cb17ca5ce1913a/Examples/Pairs/reducers/validate.js?slice=43:64&footer=0"></script>
 
 With this in place the simple, conservative, dumbTerminalConsistency
 policy can be implemented in a few lines of code:
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/da1c9371d889ace2411c0fbacbb725a7d3610a91/Examples/Pairs/replicate.js?slice=19:37&footer=0"></script>
+<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/484f375666ff362e3013d809e3cb17ca5ce1913a/Examples/Pairs/replicate.js?slice=19:37&footer=0"></script>
 
 Clients generate actions in response to UI interactions and send those
 actions to the master. The master returns valid actions which are then
@@ -38,7 +38,7 @@ The same isValid method can be reused to implement an optimistic
 clientPredictionConsistency policy which treats the clients as
 decoupled simulations:
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/da1c9371d889ace2411c0fbacbb725a7d3610a91/Examples/Pairs/replicate.js?slice=38:59&footer=0"></script>
+<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/484f375666ff362e3013d809e3cb17ca5ce1913a/Examples/Pairs/replicate.js?slice=38:65&footer=0"></script>
 
 When using this middleware, clients immediately reduce actions which
 are valid given their local state and distribute local actions to all
