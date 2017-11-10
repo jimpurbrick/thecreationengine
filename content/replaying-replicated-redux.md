@@ -87,10 +87,10 @@ consistent.
 <script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/506c98dcd4a94bdee22431ef719e0bfbfa65b591/Examples/Pairs/property.spec.js?slice=157:216&footer=0"></script>
 
 This test generates a sequence of pairs actions which might be sent by
-the master or one of two non master clients and then checks that all
+the master or one of two non-master clients and then checks that all
 clients are eventually consistent even in the pathological case where
 each non-master predicts all of its actions before getting any actions
-from the master. A nice feature of this test is that it is idependent
+from the master. A nice feature of this test is that it is independent
 of the consistency mechanism and so the same test can be run to ensure
 that both `resyncConsistency` and `replayConsistency` result in all
 clients being eventually consistent for thousands of sequences of
