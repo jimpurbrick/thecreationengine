@@ -102,9 +102,8 @@ it a much more general and efficient solution than `resyncConsistency`
 as well as much easier to use as it doesn't require complicated
 reasoning about application event ordering. The potential to perform
 sophisticated application specific state reconciliation when
-predictions are invalidated rather than simply jumping to a new state
-is also interested and I'm excited to see what we can do with it in
-future.
+predictions are invalidated is also interesting and I'm excited to see
+what we can do with it in future.
 
 If you'd like to play the ReactVR version of pairs or see the rest of
 the code, it's available on github
