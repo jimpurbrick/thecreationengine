@@ -61,15 +61,15 @@ ordering defined by the series of actions validated by the master and
 is sent back to the client, or the state which caused the prediction
 to be invalid on the master is reached on the client. In either case
 the prediction is discarded. In the case where a prediction becomes
-invalid the client has the state before the prediction, the action
-which invalidated the prediction and the list of predicted actions
-available when `updatePredictions` is called and so is able to do
+invalid, the client has the state before the prediction, the master
+validated action and the list of predicted actions available when
+`updatePredictions` is called. This context allows the client to do
 something significantly more sophisticated to fix the local state than
-simply reseting the entire state due to a state sync. In fact
-`replayConsistency` does not need to send state syncs at all, making
-it significantly more efficient than `clientPredictionConsistency`
-which I renamed `resyncConsistency` to make the differences between
-the two optimistic consistency policies clear.
+simply reseting the entire local state. In fact `replayConsistency`
+does not need to send state syncs at all, making it significantly more
+efficient than `clientPredictionConsistency` which I renamed
+`resyncConsistency` to make the differences between the two optimistic
+consistency policies clear.
 
 <script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/506c98dcd4a94bdee22431ef719e0bfbfa65b591/Examples/Pairs/replicate.js?slice=134:159&footer=0"></script>
 
