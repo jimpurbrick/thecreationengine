@@ -6,17 +6,16 @@ Slug: replaying-repllicated-redux
 While [property based tests proved to be a powerful tool for finding
 and fixing problems with ReactVR
 pairs](http://jimpurbrick.com/2017/07/31/testing-replicated-redux/),
-the limitations in the simplistic 'clientPredictionConstistenty' 
+the limitations of the simplistic `clientPredictionConstistenty`
 mechanism remained.
 
 It's easy to think of applications where one order of a sequence of
-actions is valid, but another order of the same actions are
-invalid. Imagine an application which models a door which can be
-locked: an `unlock` action followed by an `open` action should be
-valid, but an 'open' action followed by `unlock` should be invalid
-given a starting state where the door is locked. It's a lot more
-difficult to imagine how every ordering of this simple sequence of
-actions can be made either valid or invalid.
+actions is valid, but another order is invalid. Imagine an application
+which models a door which can be locked: an `unlock` action followed
+by an `open` action should be valid, but an `open` action followed by
+`unlock` should be invalid given a starting state where the door is
+locked. It's a lot more difficult to imagine how every ordering of
+this simple sequence of actions can be made either valid or invalid.
 
 The limitation of `clientPredictionConsistency` is caused by the
 master client having to see an invalid action before it notices that
@@ -49,7 +48,7 @@ travel](https://www.youtube.com/watch?v=xsSnOQynTHs) through
 application history, so I wondered whether something similar could be
 built for replicated redux.
 
-Some hacking on these ideas produced 'replayConsistency': a
+Some hacking on these ideas produced `replayConsistency`: a
 generalisation of the Half Life optimistic update ideas applied to
 arbitrary Redux actions. When a non-master client generates a valid
 local action it is sent to the master, immediately reduced locally,
@@ -67,25 +66,25 @@ which invalidated the prediction and the list of predicted actions
 available when `updatePredictions` is called and so is able to do
 something significantly more sophisticated to fix the local state than
 simply reseting the entire state due to a state sync. In fact
-'replayConsistency' does not need to send state syncs at all, making
-it significantly more efficient than 'clientPredictionConsistency`
+`replayConsistency` does not need to send state syncs at all, making
+it significantly more efficient than `clientPredictionConsistency`
 which I renamed `resyncConsistency` to make the differences between
 the two optimistic consistency policies clear.
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/506c98dcd4a94bdee22431ef719e0bfbfa65b591/Examples/Pairs/replicate.js?slice=135:159&footer=0"></script>
+<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/506c98dcd4a94bdee22431ef719e0bfbfa65b591/Examples/Pairs/replicate.js?slice=134:159&footer=0"></script>
 
 Switching out `resyncConsistency` for `replayConsistency` and
 eyeballing several games of ReactVR Pairs suggested that the new
 consistency mechanism was working as intended, but finding all of the
-kinks in 'resyncConsistency` had required testing thousands of
+kinks in `resyncConsistency` had required testing thousands of
 sequences of actions using property based tests. My existing tests
 didn't apply here: they made sure that an application would work given
-the limitations of 'resyncConsistency`. The property I really wanted
+the limitations of `resyncConsistency`. The property I really wanted
 to ensure held for all consistency mechanisms is that regardless of
 the predictions made at each client, eventually all clients would be
 consistent.
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/506c98dcd4a94bdee22431ef719e0bfbfa65b591/Examples/Pairs/property.spec.js?slice=158:216&footer=0"></script>
+<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/506c98dcd4a94bdee22431ef719e0bfbfa65b591/Examples/Pairs/property.spec.js?slice=157:216&footer=0"></script>
 
 This test generates a sequence of pairs actions which might be sent by
 the master or one of two non master clients and then checks that all
