@@ -1,7 +1,7 @@
 Title: Replaying Replicated Redux
 Date: 2017-11-10 22:56
 Tags: vr, javascript, simulation, development, software engineering
-Slug: replaying-repllicated-redux
+Slug: replaying-replicated-redux
 
 While [property based tests proved to be a powerful tool for finding
 and fixing problems with ReactVR
