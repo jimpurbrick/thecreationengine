@@ -3,7 +3,7 @@ Date: 2018-07-02 20:12
 Tags: meta, blog, web, python, django, pelican
 Slug: this-blog-is-10
 
-Just over 10 years ago I set up [The Creation Engine
+Just over ten years ago I set up [The Creation Engine
 No. 2](http://jimpurbrick.com/2008/07/01/hello-world/) after
 previously blogging on the original [Linden Lab](http://lindenlab.com)
 hosted [Creation Engine](http://secondlife.blogs.com/babbage/) and
@@ -38,30 +38,31 @@ various contributions I've made to projects like the [EVE CREST
 API](http://jimpurbrick.com/2016/01/03/crestmatic/),
 [nailgun](http://martiansoftware.com/nailgun/),
 [buck](http://jimpurbrick.com/2014/08/18/buckd/),
-[infer]http://jimpurbrick.com/2015/06/11/free-tests-for-everyone/()
+[infer](http://jimpurbrick.com/2015/06/11/free-tests-for-everyone/)
 and
-[ReactVR](http://jimpurbrick.com/2018/05/22/replicated-redux-movie/)
-and links to conference talks I've given about that work. I write
-these posts as documentation in case I have to solve similar problems
-in future, but it's also great when they prove to be useful to others,
-so I'm very happy to see that my recent set of posts about using
-ReactVR with Redux have proved to be my most popular posts to date.
+[ReactVR](http://jimpurbrick.com/2018/05/22/replicated-redux-movie/). I
+write these posts as documentation in case I have to solve similar
+problems in future, but it's also great when they prove to be useful
+to others, so I'm very happy to see that my recent set of posts about
+using [ReactVR with
+Redux](http://jimpurbrick.com/2018/05/22/replicated-redux-movie/) have
+proved to be my most popular posts to date.
 
 I don't attend as many conferences now as I did while I was working at
 [Linden Lab](https://www.lindenlab.com/), but the various conference
 write up posts serve a similar purpose: reminding me about the talks
 and speakers I've seen and hopefully also pointing others to useful
-information. Social media is more effective for letting people know
+information. Social media is now more effective for letting people know
 about future events, so I rarely use The Creation Engine to announce
 upcoming events any more, but still think its a useful place to
-collect long form thoughts about past events and to link to recordings.
+collect longform thoughts about past events and links to recordings.
 
 One post which doesn't fit in to the above catatories is my [review of
 Now We Are 40](http://jimpurbrick.com/2017/04/20/2-2-decades/) and
-thoughts on growing up on the web. Part of the reason I posted it on
-The Creation Engine No. 2 is because I could. I don't need someone to
-speak for me or my generation, I can do it myself. I'm very grateful
-that I've been able to share my thoughts with the world for the last
-decade and very happy that a lot of people have found them useful.
+thoughts on growing up with the web. Part of the reason I posted it here
+is because I could. I don't need someone to speak for me or my
+generation, I can do it myself. I'm very grateful that I've been able
+to share my thoughts with the world for the last decade and very happy
+that a lot of people have found them useful.
 
 Happy birthday to The Creation Engine No. 2. Here's to the next 10.
