@@ -2,7 +2,6 @@ Title: Pelican Powered
 Date: 2013-07-02 19:13
 Tags: meta, blog, web, python, django, pelican
 Slug: pelican-powered
-Status: draft
 
 Almost exactly 5 years ago I set up 
 [The Creation Engine No. 2](http://jimpurbrick.com/2008/07/01/hello-world/) as a 
