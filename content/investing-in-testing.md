@@ -3,16 +3,14 @@ Date: 2015-06-10 20:22
 Tags: software, development, tools, test, testing
 Slug: investing-in-testing
 
-![Droidcon London](http://uk.droidcon.com/2014/wp-content/themes/droidcon/assets/img/ShardDroid.png "Droidcon London")
-
 Last year I was talking to an engineer at [Droidcon
-London](http://uk.droidcon.com/2015/) who was working on an Android
+London](https://uk.droidcon.com/2015/) who was working on an Android
 app with 100% test coverage. I immediately asked whether he thought
 100% test coverage was worthwhile: many software engineering teams
 strive to achieve 100% test coverage, but few succeed because it's an
 enormous investment and one that I'm not sure often pays off.
 
-As with [technical debt](http://en.wikipedia.org/wiki/Technical_debt),
+As with [technical debt](https://en.wikipedia.org/wiki/Technical_debt),
 I think it's useful to think of tests as technical investments. Time
 is invested writing and maintaining tests and the expected return is
 in time saved writing and debugging code or shipping
@@ -27,7 +25,7 @@ investigate the failure and change or remove the test. Even good test
 investments incur an opportunity cost as time spent writing tests is
 time not spent improving the software being tested.
 
-An [alpha](http://en.wikipedia.org/wiki/Alpha_%28finance%29) software
+An [alpha](https://en.wikipedia.org/wiki/Alpha_%28finance%29) software
 engineer then is one that can pick the investments that pay off while
 avoiding spending time writing tests that don't. There are lots of
 useful investment strategies that can be employed. In some cases test

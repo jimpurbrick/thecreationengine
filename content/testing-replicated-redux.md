@@ -5,14 +5,14 @@ Slug: testing-replicated-redux
 
 Opening a couple of browser windows and clicking around was more than
 sufficient for testing the initial version of [ReactVR
-pairs](http://jimpurbrick.com/2017/01/04/vr-redux/). Implementing a
+pairs](https://jimpurbrick.com/2017/01/04/vr-redux/). Implementing a
 simple middleware to log actions took advantage of the
-[Redux](http://redux.js.org/) approach of reifying events to allow a
+[Redux](https://redux.js.org/) approach of reifying events to allow a
 glance at the console to reveal precisely which sequence of actions
 caused a problem.
 
 Adding support for [optimistic
-consistency](http://jimpurbrick.com/2017/07/04/react-vr-redux-revisited/)
+consistency](https://jimpurbrick.com/2017/07/04/react-vr-redux-revisited/)
 made testing more challenging. In order to test conflict resolution,
 conflicting actions needed to be generated on multiple clients almost
 simultaneously. After a couple of sessions testing broken versions of
@@ -65,7 +65,7 @@ sync action then dispatching the
 same sequence of actions in reverse would also generate a sync
 action.
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/1b1d323cf0063e57c60a7209369cd8097dfb9beb/Examples/Pairs/property.spec.js?slice=114:134&footer=0"></script>
+<script src="https://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/1b1d323cf0063e57c60a7209369cd8097dfb9beb/Examples/Pairs/property.spec.js?slice=114:134&footer=0"></script>
 
 I could now test that the property held for thousands of action
 sequences in a few seconds and so I found the next bug almost

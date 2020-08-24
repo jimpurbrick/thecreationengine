@@ -4,9 +4,9 @@ Tags: vr, javascript, simulation, development, software engineering
 Slug: react-vr-redux-revisited
 
 There were a couple of aspects of my [previous
-experiments](http://jimpurbrick.com/2017/01/04/vr-redux/) building
+experiments](https://jimpurbrick.com/2017/01/04/vr-redux/) building
 networked [ReactVR](https://facebook.github.io/react-vr/) experiences
-with [Redux](http://redux.js.org/) that were unsatisfactory: there
+with [Redux](https://redux.js.org/) that were unsatisfactory: there
 wasn't a clean separation between the application logic and network
 code and, while the example exploited idempotency to reduce latency
 for some actions, actions which could generate conflicts used a
@@ -18,12 +18,12 @@ network logic I kept the network code in a redux middleware and moved
 the application logic to an isValid callback which returns true if an
 action can be safely reduced:
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/484f375666ff362e3013d809e3cb17ca5ce1913a/Examples/Pairs/reducers/validate.js?slice=43:64&footer=0"></script>
+<script src="https://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/484f375666ff362e3013d809e3cb17ca5ce1913a/Examples/Pairs/reducers/validate.js?slice=43:64&footer=0"></script>
 
 With this in place the simple, conservative, dumbTerminalConsistency
 policy can be implemented in a few lines of code:
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/484f375666ff362e3013d809e3cb17ca5ce1913a/Examples/Pairs/replicate.js?slice=19:37&footer=0"></script>
+<script src="https://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/484f375666ff362e3013d809e3cb17ca5ce1913a/Examples/Pairs/replicate.js?slice=19:37&footer=0"></script>
 
 Clients generate actions in response to UI interactions and send those
 actions to the master. The master returns valid actions which are then
@@ -38,7 +38,7 @@ The same isValid method can be reused to implement an optimistic
 clientPredictionConsistency policy which treats the clients as
 decoupled simulations:
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/484f375666ff362e3013d809e3cb17ca5ce1913a/Examples/Pairs/replicate.js?slice=38:65&footer=0"></script>
+<script src="https://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/484f375666ff362e3013d809e3cb17ca5ce1913a/Examples/Pairs/replicate.js?slice=38:65&footer=0"></script>
 
 When using this middleware, clients immediately reduce actions which
 are valid given their local state and distribute local actions to all

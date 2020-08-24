@@ -2,7 +2,7 @@ Title: #bandcampday
 Date: 2016-03-26 18:59
 Tags: music,diy,storybird,point mass,music industry,culture,punk
 
-![Black barn mixing desk](http://40.media.tumblr.com/13975963d22df530b39b4847fc074fbf/tumblr_nwb9p6k9OZ1uz3ez3o1_1280.jpg "Black barn mixing desk")
+![Black barn mixing desk](https://40.media.tumblr.com/13975963d22df530b39b4847fc074fbf/tumblr_nwb9p6k9OZ1uz3ez3o1_1280.jpg "Black barn mixing desk")
 
 I love record shops. Whenever I had pocket money it would go on
 [Metallica](https://metallica.com/) and

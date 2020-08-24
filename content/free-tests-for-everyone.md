@@ -3,7 +3,7 @@ Date: 2015-06-11 17:00
 Tags: software, development, tools, test, testing, staticanalysis, infer
 Slug: free-tests-for-everyone
 
-<img src="http://fbinfer.com/static/logo.png" width="400">
+<img src="https://fbinfer.com/static/logo.png" width="400">
 
 Modern software development is sometimes colourfully described as
 being similar to firing tracer bullets at a target. Rather than
@@ -32,7 +32,7 @@ updated along with the software they test. What would happen if some
 or all of the tests could be free?
 
 This question has tantalised computer scientists since Turing’s work
-on the [halting problem](http://en.wikipedia.org/wiki/Halting_problem)
+on the [halting problem](https://en.wikipedia.org/wiki/Halting_problem)
 in the 1930s and while academic progress has been made, tools based on
 that work have tended to either only work on small codebases; perform
 trivial analysis; generate a high percentage of false positives;

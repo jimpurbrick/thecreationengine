@@ -2,9 +2,9 @@ Title: crestmatic
 Date: 2016-01-03 23:13
 Tags: eve, ccp, technology, rest, web, api, travis, ci, tools, github
 
-<div class="flex-video widescreen"><iframe src="http://www.youtube.com/embed/QMQOjUjrZIo" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="flex-video widescreen"><iframe src="https://www.youtube.com/embed/QMQOjUjrZIo" frameborder="0" allowfullscreen=""></iframe></div>
 
-A year ago I gave a talk at [EVE Vegas](http://vegas.eveonline.com/)
+A year ago I gave a talk at [EVE Vegas](https://vegas.eveonline.com/)
 about building RESTful CREST applications. My [#1
 recommendation](https://youtu.be/QMQOjUjrZIo?t=697) was to specify
 representations in requests, but that's hard to do when there is
@@ -18,7 +18,7 @@ representations that can be used with that URI is returned. The
 metadata isn’t in a standard format, so I built the
 [crestschema](https://github.com/jimpurbrick/crestschema) library
 which can convert the CREST format in to more useful [JSON
-schema](http://json-schema.org/latest/json-schema-core.html)s. The
+schema](https://json-schema.org/latest/json-schema-core.html)s. The
 library works in browsers, in applications like
 [crestexplorer](https://github.com/jimpurbrick/crestexplorerjs), and
 from [node](https://nodejs.org/) in applications like
@@ -26,7 +26,7 @@ from [node](https://nodejs.org/) in applications like
 which can crawl the CREST API to find all reachable
 representations. Converted schemas can then be used with wide variety
 of [software, libraries and
-languages](http://json-schema.org/implementations.html) to validate
+languages](https://json-schema.org/implementations.html) to validate
 data from the live CREST API, generate parsers or automatically
 generate documentation.
 
@@ -35,10 +35,10 @@ With the schemas converted it's easy to build
 crestschema and [matic](https://github.com/mattyod/matic) to generate
 the documentation. Adding a [travis](https://travis-ci.org/) step to
 publish the generated documentation to
-[gh-pages](http://jimpurbrick.com/crestmatic/) and wiring up
+[gh-pages](https://jimpurbrick.com/crestmatic/) and wiring up
 [nightli.es](https://nightli.es/) to trigger a build every night
 ensures that the documentation is automatically kept up to date. If
 you'd like to see some changes please feel free to submit a pull
 request or just donate some ISK to Capt Out if you find the
-[documentation](http://jimpurbrick.com/crestmatic/) or
+[documentation](https://jimpurbrick.com/crestmatic/) or
 [code](https://github.com/jimpurbrick/crestmatic) useful.

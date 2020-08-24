@@ -5,7 +5,7 @@ Slug: replaying-replicated-redux
 
 While [property based tests proved to be a powerful tool for finding
 and fixing problems with ReactVR
-pairs](http://jimpurbrick.com/2017/07/31/testing-replicated-redux/),
+pairs](https://jimpurbrick.com/2017/07/31/testing-replicated-redux/),
 the limitations of the simplistic `clientPredictionConstistenty`
 mechanism remained.
 
@@ -71,7 +71,7 @@ efficient than `clientPredictionConsistency` which I renamed
 `resyncConsistency` to make the differences between the two optimistic
 consistency policies clear.
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/506c98dcd4a94bdee22431ef719e0bfbfa65b591/Examples/Pairs/replicate.js?slice=134:159&footer=0"></script>
+<script src="https://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/506c98dcd4a94bdee22431ef719e0bfbfa65b591/Examples/Pairs/replicate.js?slice=134:159&footer=0"></script>
 
 Switching out `resyncConsistency` for `replayConsistency` and
 eyeballing several games of ReactVR Pairs suggested that the new
@@ -84,7 +84,7 @@ to ensure held for all consistency mechanisms is that regardless of
 the predictions made at each client, eventually all clients would be
 consistent.
 
-<script src="http://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/506c98dcd4a94bdee22431ef719e0bfbfa65b591/Examples/Pairs/property.spec.js?slice=157:216&footer=0"></script>
+<script src="https://gist-it.appspot.com/https://github.com/facebook/react-vr/blob/506c98dcd4a94bdee22431ef719e0bfbfa65b591/Examples/Pairs/property.spec.js?slice=157:216&footer=0"></script>
 
 This test generates a sequence of pairs actions which might be sent by
 the master or one of two non-master clients and then checks that all

@@ -9,7 +9,7 @@ I've just got back from [Kaş](https://en.wikipedia.org/wiki/Ka%C5%9F)
 where I spent a lovely few days celebrating [Pinar and Simon's
 wedding](https://www.flickr.com/photos/jimpurbrick/albums/72157681607365593)
 and while there spent a few hours reading [Now We Are
-40](http://www.harpercollins.ca/9780008185329/now-we-are-40): a
+40](https://www.harpercollins.ca/9780008185329/now-we-are-40): a
 thoughtful and entertaining look at everything from house music to
 house prices from the perspective of Generation X.
 
@@ -38,24 +38,24 @@ recorded music any more, but you still need to eat and drink.
 
 In fact raves, clubs, cafes and restaurants are mostly a place to hang
 out. When people were incredulous at the idea of spending real money
-on virtual goods [Cory](http://ondrejka.net/) and I used to point out
+on virtual goods [Cory](https://ondrejka.net/) and I used to point out
 that most of what you were buying in Starbucks was not coffee or
 service, but an experience just as ephemeral as a [virtual
-hat](http://terranova.blogs.com/terra_nova/2004/12/you_cant_take_i.html).
+hat](https://terranova.blogs.com/terra_nova/2004/12/you_cant_take_i.html).
 
-Virtual worlds like [Second Life](http://secondlife.com/) and now
+Virtual worlds like [Second Life](https://secondlife.com/) and now
 [Social
 VR](https://www.oculus.com/blog/join-friends-in-vr-with-oculus-rooms-and-parties/)
 showed that you could digitise the hanging out too. It's already
 proving to be an [invaluable
-lifeline](http://jimpurbrick.com/2013/12/15/osprey-therian/) to people
+lifeline](https://jimpurbrick.com/2013/12/15/osprey-therian/) to people
 who find it hard to hang out in real life. While festivals, clubs and
 gigs are where musicians are increasingly making money in real life,
 they also work in virtual worlds. I first saw the
-[Qemists](http://www.theqemists.com/), now one of my favourite bands,
+[Qemists](https://www.theqemists.com/), now one of my favourite bands,
 on the [Ninja Tune](https://ninjatune.net/) stage at a festival in
 Second Life organised by
-[Aleks](http://www.alekskrotoski.com/). Later,
+[Aleks](https://www.alekskrotoski.com/). Later,
 [Leon](https://twitter.com/l3onx) poked me on Facebook to ask me to
 advise his new tech startup because, after music and food, technology
 is apparently the new rock and roll.
@@ -65,15 +65,15 @@ compliment the real world and working at Facebook is the first time
 that I have felt like I might be working somewhere that has been
 disrupting existing industries. The view that Facebook is an
 existential threat to [the open
-web](http://anildash.com/2012/12/the-web-we-lost.html) (a prospect
-that [Bryan](http://www.serpentine.com/blog/) likens to the bug sucking
+web](https://anildash.com/2012/12/the-web-we-lost.html) (a prospect
+that [Bryan](https://www.serpentine.com/blog/) likens to the bug sucking
 the wildebeest dry) is relatively widespread and I remember a circle
 forming around me when I told [Aral](https://ar.al/) and some of the
-other web developers at a [Skiff](http://www.theskiff.org/) Christmas
+other web developers at a [Skiff](https://www.theskiff.org/) Christmas
 party that I was going to work there.
 
 In fact I've spent much of the last few years working on
-[open](https://buckbuild.com/) [source](http://fbinfer.com/) tools
+[open](https://buckbuild.com/) [source](https://fbinfer.com/) tools
 that will benefit the wider web while also being able to support my family
 more sustainably than I could working in a games industry where
 redundancies and closures were more common than [Philip
@@ -112,7 +112,7 @@ later.
 One thing that is clear is that we need to work out how our
 increasingly disrupted and automated society will function. If
 [software is eating the
-world](http://a16z.com/2016/08/20/why-software-is-eating-the-world/)
+world](https://a16z.com/2016/08/20/why-software-is-eating-the-world/)
 and software is increasingly learned, then we're going to have to find
 a way for people to flourish in that future. Brexit and Trump show
 what happens when people are worried about their place in the

@@ -10,10 +10,10 @@ frameborder="0" allowfullscreen></iframe></div>
 The recording of my recent [React Europe talk about Replicated Redux
 is now online](https://www.youtube.com/watch?v=Fr3vp0C22H0) and I've
 written several other posts describing [
-designing](http://jimpurbrick.com/2017/07/04/react-vr-redux-revisited/),
-[testing](http://jimpurbrick.com/2017/07/31/testing-replicated-redux/)
+designing](https://jimpurbrick.com/2017/07/04/react-vr-redux-revisited/),
+[testing](https://jimpurbrick.com/2017/07/31/testing-replicated-redux/)
 and
-[generalising](http://jimpurbrick.com/2017/11/10/replaying-replicated-redux/)
+[generalising](https://jimpurbrick.com/2017/11/10/replaying-replicated-redux/)
 the library if you would like to know more about the details. If you’d
 like to play the web version of pairs or see the rest of the code,
 it’s available on github
