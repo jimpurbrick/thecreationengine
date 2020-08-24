@@ -3,7 +3,7 @@ Date: 2015-06-11 17:00
 Tags: software, development, tools, test, testing, staticanalysis, infer
 Slug: free-tests-for-everyone
 
-<img src="https://fbinfer.com/static/logo.png" width="400">
+<img src="https://fbinfer.com/img/logo.png" width="400">
 
 Modern software development is sometimes colourfully described as
 being similar to firing tracer bullets at a target. Rather than
