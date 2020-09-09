@@ -19,7 +19,7 @@ Crash](https://en.wikipedia.org/wiki/Snow_Crash) in the restroom. We
 were definitely building the[
 Metaverse](https://en.wikipedia.org/wiki/Metaverse) and so there was
 much excitement when one of our colleagues met[ Neal
-Stephenson](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.nealstephenson.com%2F&h=AT0FNz9jjGQN7Emx_pyY0lfkHsVKPzMxRC33jX-KNSdGIHZ4VVcQJkXjbTFyJXuEcf3zhJv_6KS5SDITvayIMQou8j1ILEBitrcDgkOOPPAEo8f63HYnhKws2Y_ppSv0hVrGjIep1Gc04WSt)
+Stephenson](https://nealstephenson.com)
 and asked what he thought of Second Life. Neal commented that he
 didn’t expect a company to set out to build the entire Metaverse, he
 thought it would be more interstitial. Over a decade later I think
@@ -52,7 +52,7 @@ world is the natural place to continue to hang out with those friends.
 Unlike static theme parks, some MMOs provide a more open sandbox which
 allows people to have a bigger impact on the world and so define more
 of the content themselves. A good example is[
-EVE](https://l.workplace.com/l.php?u=https%3A%2F%2Fwww.eveonline.com%2F&h=AT1CXJTxf0eVnC2Yyw_DwgMvpOjJ0jA8d_u1czsQn8l6-D-QCd2ahsBurLVpL-60-98IjL2FXvoV12dShc0KqQ1ajOkVCcMb0Fch6T2RAzchrDC_7pQr80GT1eOj43wTp6whe2_b0mLAG74Z)
+EVE](https://www.eveonline.com)
 which allows players to build enormous empires via trade, industry,
 conquest and espionage. The continuing power struggles fuel a rich
 continuing conversation around the player created content and a
@@ -76,11 +76,11 @@ tastes to ensure that the limited content appeals as broadly as
 possible. It results in a theme park full of content that appeals to
 lots of people for a limited amount of time. Even with the resources
 to appeal to every taste, would a[
-Disneyland](https://l.workplace.com/l.php?u=https%3A%2F%2Fdisneyland.disney.go.com%2F&h=AT1t0mkcdjl4DZUxJWcxv78bmE_s7QQ9SgKv9p6jIgkFZ5BM2NXHJu2MvWW99PNJalAn7HKUvtsMNKH5Z4PAPr5DEB0BPQPzv-wEq8pi1euciPFYnUp9O6szHW-UrA477MYJ4yIpn34MxWrr)
+Disneyland](https://disneyland.disney.go.com)
 punk rock club really be punk? The sandbox approach creates a much
 greater feeling of ownership, investment and constant evolution, but
 while[ Burning
-Man](https://l.workplace.com/l.php?u=https%3A%2F%2Fburningman.org%2F&h=AT322TI-smX-jMuYJ28_Fu0EyQtGRPmYhwi135EPjqD3XK7Bd4pOqwPPktj2x_mpe-8eGtlT-vjFvVpZz6s-Foch01YgdRYd73oefzL-MG5WbYLNukKXf0hGAlwt07Z434CdhJ_rMjTV5RI7)
+Man](https://burningman.org)
 is an impressive achievement it’s not clear that many people would
 want to live there all year.
 
@@ -89,7 +89,7 @@ from the past to build an appealing space for as broad an audience as
 possible? Can you build somewhere with a core of high quality, broadly
 appealing commissioned content surrounded by a constantly changing
 vibrant fringe of more niche experiences like the [Edinburgh
-Festival](https://l.workplace.com/l.php?u=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEdinburgh_Festival_Fringe&h=AT2ASEcsTf1P12JDILo0Cx6g9Zy1X7RljJkSCYn3jeRQSc7XOk58EINJh57vHtPN-DjrubMa-LgUtixEt-wLHjgRLtXTLek6ou_OtqBhvNnXkF7fkAq8X0g2CoYfenxd3audgkPXhEPCCHBY)
+Festival](https://en.wikipedia.org/wiki/Edinburgh_Festival_Fringe)
 which people can safely explore? Can you provide space for content,
 conversation and commerce which allows people to be heroes,
 protagonists and entrepreneurs as well as visitors to a theme park?
