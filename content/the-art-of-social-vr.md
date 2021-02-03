@@ -1,7 +1,7 @@
 Title: The Art Of Social VR
 Date: 2021-02-03 23:25
 Tags: software, technology, vr, socialvr, design
-Slug: replicated-redux-movie
+Slug: the-art-of-social-vr
 
 <div class="flex-video"><iframe width="640" height="360"
 src="https://www.youtube.com/embed/lMxuJC1JBSY?feature=player_detailpage"
