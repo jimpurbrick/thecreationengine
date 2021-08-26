@@ -3,6 +3,8 @@ Date: 2021-08-26 14:26
 Tags: MMORPG, SocialVR, Second Life, EVE Online, VR, Facebook, Oculus, Virtual Worlds
 Slug: virtual-objects-you-can-touch
 
+![Horizon Workrooms](https://lh3.googleusercontent.com/BBgwIQ10Dlfdxo9ZK8BSx-EaVHNgfxEfmU2vMMgO6qeYsVdmkClP3yHfplA35EwtgNiQzMAwjjonR2xKgkLey0d7MQ5Hea2eMW-mkJORaelxLdP2oHo3BTi5lD2Zuolm78_1Hzf6u4M=w2400 "Horizon Workrooms")
+
 Now that [Horizon
 Workrooms](https://www.oculus.com/experiences/quest/2514011888645651/)
 has launched I’m very happy to be able to write about the
@@ -10,14 +12,10 @@ functionality that I found most exciting while building the
 experience: the mapping of virtual objects to their real world
 counterparts.
 
-<div class="flex-video"><iframe width="640" height="360"
-src="https://www.youtube.com/embed/lgj50IxRrKQ"
-frameborder="0" allowfullscreen></iframe></div>
-
 Typically augmented and mixed reality experiences overlay real world
 objects with virtual annotations. An AR app on your phone might
 recognize a face seen by the camera and show the face with added bunny
-ears on the phone screen for example. Workrooms is different in that
+ears on the phone screen, for example. Workrooms is different in that
 it shows you an entirely virtual environment, but asks you to
 [indicate the position of real world objects like your
 desk](https://youtu.be/lgj50IxRrKQ?t=7) in a process which feels like
@@ -46,6 +44,19 @@ trade off is often worthwhile and less onerous than requiring the use
 of specialised additional VR hardware to provide much lower fidelity
 haptic feedback.
 
+Mapping real objects to virtual objects can also go beyond providing
+haptic feedback by being used to provide a very natural indication of
+intent. Moving from a seated desk to a nearby wall in the real world
+can be used to indicate to an application the intent to use a
+whiteboard and might result in teleporting in the virtual world to a
+whiteboard location much further away, allowing people to navigate
+virtual spaces which are much larger than the available space in the
+real world.
+
+<div class="flex-video"><iframe width="640" height="360"
+src="https://www.youtube.com/embed/lgj50IxRrKQ"
+frameborder="0" allowfullscreen></iframe></div>
+
 Using real objects that can be touched shifts the problem of providing
 [haptic feedback](https://en.wikipedia.org/wiki/Haptic_technology)
 from one requiring complex mechanical force feedback devices to one
@@ -58,19 +69,6 @@ be perfect. A real MacBook keyboard feels exactly like a MacBook
 keyboard when you touch it because it is a MacBook keyboard, whereas
 any force feedback device trying to synthesize the same haptic
 feedback could only ever provide an approximation.
-
-Mapping real objects to virtual objects can also go beyond providing
-haptic feedback by being used to provide a very natural indication of
-intent. Moving from a seated desk to a nearby wall in the real world
-can be used to indicate to an application the intent to use a
-whiteboard and might result in teleporting in the virtual world to a
-whiteboard location much further away, allowing people to navigate
-virtual spaces which are much larger than the available space in the
-real world.
-
-<div class="flex-video"><iframe width="640" height="360"
-src="https://www.youtube.com/embed/xbrIJdu6Gn0"
-frameborder="0" allowfullscreen></iframe></div>
 
 While the relative ubiquity of home offices means that this mapping
 approach lends itself to an experience like Workrooms, it’s also
@@ -87,6 +85,10 @@ exiting through the same doorway to a new virtual room once the
 elevator had virtually moved to a new floor in the virtual
 environment.
 
+<div class="flex-video"><iframe width="640" height="360"
+src="https://www.youtube.com/embed/xbrIJdu6Gn0"
+frameborder="0" allowfullscreen></iframe></div>
+
 With the increasing availability of headsets which use
 [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
 based inside-out tracking and the development of techniques like
@@ -100,5 +102,5 @@ application could then use the available real world features to
 generate huge custom fantasy environments in a rogue-like game in
 which every wall and table can be leant on, every door can be opened
 and closed, every chair sat in and potentially every staircase
-climbed. I’m very excited by the potential experiences these
+climbed. I’m very excited to see, hear and touch the experiences these
 techniques might enable in the near future.
