@@ -10,19 +10,18 @@ functionality that I found most exciting while building the
 experience: the mapping of virtual objects to their real world
 counterparts.
 
-Typically augmented and mixed reality experiences overlay real world
-objects with virtual annotations. An AR app on your phone might
-recognize a face seen by the camera and show the face with added bunny
-ears on the phone screen for example.
-
 <div class="flex-video"><iframe width="640" height="360"
 src="https://www.youtube.com/embed/lgj50IxRrKQ"
 frameborder="0" allowfullscreen></iframe></div>
 
-Workrooms is different in that it shows you an entirely virtual
-environment, but asks you to [indicate the position of real world
-objects like your desk](https://youtu.be/lgj50IxRrKQ?t=7) in a process
-which feels like a more detailed [guardian setup
+Typically augmented and mixed reality experiences overlay real world
+objects with virtual annotations. An AR app on your phone might
+recognize a face seen by the camera and show the face with added bunny
+ears on the phone screen for example. Workrooms is different in that
+it shows you an entirely virtual environment, but asks you to
+[indicate the position of real world objects like your
+desk](https://youtu.be/lgj50IxRrKQ?t=7) in a process which feels like
+a more detailed [guardian setup
 process](https://www.youtube.com/watch?v=d73PfTXZDvo). Workrooms then
 positions your avatar in the virtual world so that your real desktop
 aligns with your virtual desktop. When you reach out and touch the
@@ -31,19 +30,6 @@ virtual objects within arms reach are mapped to real objects, the
 virtual environment can be much bigger than the available real space
 while maintaining the illusion that every virtual object can be
 touched as well as seen.
-
-Using real objects that can be touched shifts the problem of providing
-[haptic feedback](https://en.wikipedia.org/wiki/Haptic_technology)
-from one requiring complex mechanical force feedback devices to one
-that, in future, would use computer vision to recognise objects in the
-real environment using the same cameras that provide [inside-out
-tracking](https://en.wikipedia.org/wiki/VR_positional_tracking#Inside-out_tracking)
-capabilities in modern VR headsets. By using virtual objects that map
-exactly to their real counterparts the haptic feedback provided would
-be perfect. A real MacBook keyboard feels exactly like a MacBook
-keyboard when you touch it because it is a MacBook keyboard, whereas
-any force feedback device trying to synthesize the same haptic
-feedback could only ever provide an approximation.
 
 In addition to adding to the immersion and realism of the experience,
 the haptic feedback has important practical benefits. Typing on a
@@ -60,14 +46,27 @@ trade off is often worthwhile and less onerous than requiring the use
 of specialised additional VR hardware to provide much lower fidelity
 haptic feedback.
 
+Using real objects that can be touched shifts the problem of providing
+[haptic feedback](https://en.wikipedia.org/wiki/Haptic_technology)
+from one requiring complex mechanical force feedback devices to one
+that, in future, would use computer vision to recognise objects in the
+real environment using the same cameras that provide [inside-out
+tracking](https://en.wikipedia.org/wiki/VR_positional_tracking#Inside-out_tracking)
+capabilities in modern VR headsets. By using virtual objects that map
+exactly to their real counterparts the haptic feedback provided would
+be perfect. A real MacBook keyboard feels exactly like a MacBook
+keyboard when you touch it because it is a MacBook keyboard, whereas
+any force feedback device trying to synthesize the same haptic
+feedback could only ever provide an approximation.
+
 Mapping real objects to virtual objects can also go beyond providing
 haptic feedback by being used to provide a very natural indication of
 intent. Moving from a seated desk to a nearby wall in the real world
 can be used to indicate to an application the intent to use a
 whiteboard and might result in teleporting in the virtual world to a
 whiteboard location much further away, allowing people to navigate
-virtual spaces which are much larger than the available space in their
-real environment.
+virtual spaces which are much larger than the available space in the
+real world.
 
 <div class="flex-video"><iframe width="640" height="360"
 src="https://www.youtube.com/embed/xbrIJdu6Gn0"
