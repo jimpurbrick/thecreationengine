@@ -1,4 +1,4 @@
-Title: How (Not) To Build a Metaverse
+Title: How (Not) to Build a Metaverse
 Date: 2022-10-05 22:27
 Tags: software, technology, vr, socialvr, design, virtualworlds, mmorpgs, crime, punishment, governance, abuse, safety, politics, philosophy, research, metaverse, secondlife
 Slug: how-not-to-build-a-metaverse
@@ -32,11 +32,12 @@ hurt, just as they can in real life. Reading Dibbell’s article made me
 want to work on commercial virtual worlds that enabled those real
 human communities rather than experimental worlds that only existed as
 technical proofs of concept. I left academia, started working in the
-games industry, and quickly found the Terra Nova group blog that
+games industry, and quickly found the [Terra
+Nova](https://terranova.blogs.com/ "Terra Nova") group blog that
 Julian Dibbell was contributing to along with Cory Ondrejka, the CTO
 of Linden Lab.
 
-Given that the path that led me to Second Life, I was saddened to hear
+Given the path that led me to Second Life, I was saddened to hear
 that the origin story of moderation in Second Life didn’t mention
 it. Peter should have known that people wouldn’t read his epic Terms
 of Service, but at least he tried to apply best practice. “A Rape In
