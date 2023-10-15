@@ -39,4 +39,8 @@ I haven’t made a game in a long time and I’ve never made a hardware game, so
 
 ![Dreamy Hardware](https://jimpurbrick.com/media/blam/dream_hardware.jpg "Dreamy Hardware")
 
-I’m very excited that the “Battle Lines: Arcade Machine” (BL:AM) will be part of the free [Pop Up Arcade](https://dreamy-place.com/pop-up-arcade-at-dreamy-place/) at the [Dreamy Place Festival in Crawley](https://dreamy-place.com/events/crawley/) from the 12th-14th of October. Come along and have a play!
+<div class="flex-video"><iframe width="640" height="360"
+src="https://www.youtube.com/embed/CSEyx5UitHI?feature=player_detailpage"
+frameborder="0" allowfullscreen></iframe></div>
+
+“Battle Lines: Arcade Machine” (BL:AM) was included in the [Pop Up Arcade](https://dreamy-place.com/pop-up-arcade-at-dreamy-place/) at the [Dreamy Place Festival in Crawley](https://dreamy-place.com/events/crawley/) in October 2023 where I had lots of fun playing it and talking about the design and development. You can find more gameplay footage [here](https://www.youtube.com/watch?v=qhf4Mmd56fc&list=PLuYiVrLoFA4OflCp1AN8mLpS_qJ7oexHq&index=2).
