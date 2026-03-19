@@ -9,9 +9,8 @@ docutils==0.10
 feedgenerator==1.6
 feedparser==5.1.3
 lxml>=4.6.3
-pelican==3.2.2
-pytz==2013b
-six==1.3.0
-smartypants==1.6.0.3
-typogrify==2.0.0
-wsgiref==0.1.2
+pelican>=3.2.2
+pytz>=2013b
+six>=1.3.0
+smartypants>=1.6.0.3
+typogrify>=2.0.0
