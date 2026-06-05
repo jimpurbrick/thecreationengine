@@ -3,9 +3,9 @@ Date: 2026-06-05 15:00
 Tags: virtualworlds, ai, philosophy, society, safety
 Slug: the-revolution-will-be-virtualized
 
-AI is beginning to transform the world in ways that people are likening to a second industrial revolution. The production of software has already been profoundly changed, just as the manufacture of textiles was transformed hundreds of years ago. What is different this time is that virtual worlds exist, so we can simulate this revolution playing out across thousands of simulated worlds to ensure that it is as safe and predictable as possible before we allow it to revolutionize the real world.
-
 ![Babbage Linden With Globe In Second Life](https://jimpurbrick.com/media/BabbageMoonGlobe.jpg "Babbage Linden With Globe In Second Life")
+
+AI is beginning to transform the world in ways that people are likening to a second industrial revolution. The production of software has already been profoundly changed, just as the manufacture of textiles was transformed hundreds of years ago. What is different this time is that virtual worlds exist, so we can simulate this revolution playing out across thousands of simulated worlds to ensure that it is as safe and predictable as possible before we allow it to revolutionize the real world.
 
 "What is different this time?" is a favourite question of both historians and investors. I've worked on virtual worlds for long enough to have heard it asked and answered multiple times. [Networked multi user virtual worlds are at least as old as I am](https://en.wikipedia.org/wiki/MUD1). What was different when Philip Rosedale was pitching Second Life was that people had access to broadband internet connections and consumer hardware 3D acceleration. [The first head mounted displays were developed nearly 60 years ago](https://en.wikipedia.org/wiki/Ivan_Sutherland%27s_head-mounted_3D_display). What was different when Palmer Luckey started Oculus was that smartphones had made high resolution screens cheap enough to make consumer head mounted displays viable. As we begin to hear the overtures of the second industrial revolution we should ask the question again. What is different this time? This is the first revolution that will be virtualized.
 
