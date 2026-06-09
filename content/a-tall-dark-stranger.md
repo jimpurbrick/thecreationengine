@@ -3,7 +3,7 @@ Date: 2020-09-16 21:51
 Tags: MMORPG, SocialVR, Second Life, EVE Online
 Slug: a-tall-dark-stranger
 
-![Untitled](https://live.staticflickr.com/4607/25342207147_6126f6ef18_b.jpg "Untitled")
+![Avatar On Bed](https://jimpurbrick.com/media/TallDarkStranger.jpg "Avatar On Bed")
 
 Over the past few years I’ve spent a lot of time helping people new to
 virtual worlds understand how they work. Over the next few weeks I’m

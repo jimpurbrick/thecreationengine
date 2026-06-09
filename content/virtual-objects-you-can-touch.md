@@ -3,7 +3,7 @@ Date: 2021-08-26 14:26
 Tags: MMORPG, SocialVR, Second Life, EVE Online, VR, Facebook, Oculus, Virtual Worlds
 Slug: virtual-objects-you-can-touch
 
-![Horizon Workrooms](https://lh3.googleusercontent.com/BBgwIQ10Dlfdxo9ZK8BSx-EaVHNgfxEfmU2vMMgO6qeYsVdmkClP3yHfplA35EwtgNiQzMAwjjonR2xKgkLey0d7MQ5Hea2eMW-mkJORaelxLdP2oHo3BTi5lD2Zuolm78_1Hzf6u4M=w2400 "Horizon Workrooms")
+![Horizon Workrooms](https://jimpurbrick.com/media/VirtualObjectsYouCanTouch.jpg "Horizon Workrooms")
 
 Now that [Horizon
 Workrooms](https://www.oculus.com/experiences/quest/2514011888645651/)

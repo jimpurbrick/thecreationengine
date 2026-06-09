@@ -3,7 +3,7 @@ Date: 2020-09-23 16:51
 Tags: MMORPG, SocialVR, Second Life, EVE Online
 Slug: small-places-loosely-joined
 
-![Untitled](https://live.staticflickr.com/4648/39932572994_0a01abd6b6_b.jpg "Untitled")
+![Rocks In Water In Second Life](https://jimpurbrick.com/media/SmallPlacesLooselyJoined.jpg "Rocks In Water In Second Life")
 
 Over the last few years I’ve spent a lot of time helping people new to
 virtual worlds learn how they work. Over the next few weeks I’m

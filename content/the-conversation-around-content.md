@@ -3,7 +3,7 @@ Date: 2020-09-09 21:51
 Tags: MMORPG, SocialVR, Second Life, EVE Online
 Slug: the-conversation-around-content
 
-![Okinawa](https://live.staticflickr.com/1774/29966478168_f82b129a8a_b.jpg "Okinawa")
+![Okinawa](https://jimpurbrick.com/media/ConversationAroundContent.jpg "Okinawa")
 
 Over the last few years I’ve spent a lot of time helping people new to
 virtual worlds learn how they work. Over the next few weeks I’m going
